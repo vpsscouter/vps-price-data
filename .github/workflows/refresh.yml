@@ -1,0 +1,78 @@
+name: Refresh VPS price data
+
+on:
+  schedule:
+    - cron: '37 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vps-price-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Download and validate canonical exports
+        shell: bash
+        run: |
+          set -euo pipefail
+          temp_dir=$(mktemp -d)
+          trap 'rm -rf "$temp_dir"' EXIT
+          for extension in csv json; do
+            curl --fail --silent --show-error --location --retry 3 --max-time 60               --proto '=https' --proto-redir '=https'               "https://vpsscouter.com/data/vps-prices.$extension"               --output "$temp_dir/vps-prices.$extension"
+          done
+          python3 - "$temp_dir" <<'PY'
+          import csv
+          import json
+          import sys
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          staging = Path(sys.argv[1])
+          csv_path = staging / 'vps-prices.csv'
+          json_path = staging / 'vps-prices.json'
+          with csv_path.open(encoding='utf-8-sig', newline='') as source:
+              reader = csv.DictReader(source)
+              if not {'checked_at', 'source_url'} <= set(reader.fieldnames or []):
+                  raise ValueError('Missing required CSV columns')
+              row_count = sum(1 for row in reader if row.get('source_url'))
+          if not row_count:
+              raise ValueError('The CSV export contains no plan rows')
+          with json_path.open(encoding='utf-8-sig') as source:
+              payload = json.load(source)
+          if not isinstance(payload, (dict, list)) or not payload:
+              raise ValueError('Expected a nonempty JSON object or array')
+
+          changed = []
+          for source in (csv_path, json_path):
+              target = Path(source.name)
+              data = source.read_bytes()
+              if not target.exists() or target.read_bytes() != data:
+                  target.write_bytes(data)
+                  changed.append(source.name)
+          if changed:
+              changelog = Path('CHANGELOG.md')
+              if not changelog.exists():
+                  changelog.write_text('# Mirror changelog\n', encoding='utf-8')
+              fetched_at = datetime.now(timezone.utc).isoformat(timespec='seconds')
+              with changelog.open('a', encoding='utf-8') as log:
+                  log.write(f"\n- {fetched_at}: mirrored {', '.join(changed)} ({row_count} CSV plan rows).\n")
+          PY
+      - name: Commit changed exports
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add vps-prices.csv vps-prices.json CHANGELOG.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh VPS Scouter price data'
+          git push
