@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - name: Download and validate canonical exports
         shell: bash
         run: |
@@ -29,25 +29,52 @@ jobs:
           done
           python3 - "$temp_dir" <<'PY'
           import csv
+          from collections import Counter
           import json
           import sys
           from datetime import datetime, timezone
           from pathlib import Path
+          from xml.sax.saxutils import escape
 
           staging = Path(sys.argv[1])
           csv_path = staging / 'vps-prices.csv'
           json_path = staging / 'vps-prices.json'
           with csv_path.open(encoding='utf-8-sig', newline='') as source:
               reader = csv.DictReader(source)
-              if not {'checked_at', 'source_url'} <= set(reader.fieldnames or []):
+              if not {'provider', 'checked_at', 'source_url'} <= set(reader.fieldnames or []):
                   raise ValueError('Missing required CSV columns')
-              row_count = sum(1 for row in reader if row.get('source_url'))
+              rows = [row for row in reader if row.get('provider') and row.get('source_url')]
+          row_count = len(rows)
           if not row_count:
               raise ValueError('The CSV export contains no plan rows')
           with json_path.open(encoding='utf-8-sig') as source:
               payload = json.load(source)
           if not isinstance(payload, (dict, list)) or not payload:
               raise ValueError('Expected a nonempty JSON object or array')
+
+          providers = Counter(row['provider'] for row in rows)
+          top = sorted(providers.items(), key=lambda item: (-item[1], item[0]))[:10]
+          scale = 360 / top[0][1]
+          height = 90 + 28 * len(top)
+          svg = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="690" height="{height}" viewBox="0 0 690 {height}" role="img" aria-labelledby="title description">',
+              '<title id="title">VPS plans by provider</title>',
+              '<desc id="description">The ten providers with the most plans in this snapshot.</desc>',
+              f'<rect width="690" height="{height}" rx="12" fill="#f4f7fb"/>',
+              '<g font-family="system-ui, sans-serif" fill="#182338">',
+              '<text x="24" y="34" font-size="22" font-weight="700">VPS plans by provider</text>',
+              f'<text x="24" y="57" font-size="13">Top 10 by plan count · {row_count} plans from {len(providers)} providers</text>',
+          ]
+          for index, (provider, count) in enumerate(top):
+              y = 74 + 28 * index
+              width = count * scale
+              svg.append(f'<text x="24" y="{y + 14}" font-size="14">{escape(provider)}</text>')
+              svg.append(f'<rect x="244" y="{y}" width="{width:.1f}" height="18" rx="4" fill="#235cba"/>')
+              svg.append(f'<text x="{252 + width:.1f}" y="{y + 14}" font-size="14">{count}</text>')
+          svg.extend(['</g>', '</svg>'])
+          chart = Path('charts/plans-by-provider.svg')
+          chart.parent.mkdir(exist_ok=True)
+          chart.write_text('\n'.join(svg) + '\n', encoding='utf-8')
 
           changed = []
           for source in (csv_path, json_path):
@@ -68,7 +95,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git add vps-prices.csv vps-prices.json CHANGELOG.md
+          git add vps-prices.csv vps-prices.json CHANGELOG.md charts/plans-by-provider.svg
           if git diff --cached --quiet; then
             exit 0
           fi
