@@ -1,0 +1,384 @@
+provider,provider_slug,plan,plan_id,price_usd_month,term_months,renewal_usd_month,vcpu,ram_gb,storage_gb,storage_type,bandwidth_tb,checked_at,source_url
+Hostinger,hostinger,KVM 1,hostinger-kvm-1,6.49,24,11.99,1,4,50,nvme,4,2026-11-20T05:04:46.076Z,https://www.hostinger.com/vps-hosting
+Hostinger,hostinger,KVM 2,hostinger-kvm-2,8.79,24,14.99,2,8,100,nvme,8,2026-11-20T05:04:46.076Z,https://www.hostinger.com/vps-hosting
+Hostinger,hostinger,KVM 4,hostinger-kvm-4,12.99,24,28.99,4,16,200,nvme,16,2026-11-20T05:04:46.076Z,https://www.hostinger.com/vps-hosting
+Hostinger,hostinger,KVM 8,hostinger-kvm-8,25.99,24,49.99,8,32,400,nvme,32,2026-11-20T05:04:46.076Z,https://www.hostinger.com/vps-hosting
+DigitalOcean,digitalocean,Basic 512 MB,digitalocean-basic-0.5gb-1vcpu-10gb,4,1,,1,0.5,10,ssd,1,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 1 GB,digitalocean-basic-1gb-1vcpu-25gb,6,1,,1,1,25,ssd,1,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 2 GB (1 vCPU),digitalocean-basic-2gb-1vcpu-50gb,12,1,,1,2,50,ssd,2,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 2 GB (2 vCPU),digitalocean-basic-2gb-2vcpu-60gb,18,1,,2,2,60,ssd,3,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 4 GB,digitalocean-basic-4gb-2vcpu-80gb,24,1,,2,4,80,ssd,4,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 8 GB,digitalocean-basic-8gb-4vcpu-160gb,48,1,,4,8,160,ssd,5,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Basic 16 GB,digitalocean-basic-16gb-8vcpu-320gb,96,1,,8,16,320,ssd,6,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 4 GB,digitalocean-cpu-optimized-4gb-2vcpu-25gb,42,1,,2,4,25,ssd,4,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 8 GB,digitalocean-cpu-optimized-8gb-4vcpu-50gb,84,1,,4,8,50,ssd,5,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 16 GB,digitalocean-cpu-optimized-16gb-8vcpu-100gb,168,1,,8,16,100,ssd,6,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 32 GB,digitalocean-cpu-optimized-32gb-16vcpu-200gb,336,1,,16,32,200,ssd,7,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 64 GB,digitalocean-cpu-optimized-64gb-32vcpu-400gb,672,1,,32,64,400,ssd,9,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,CPU-Optimized 96 GB,digitalocean-cpu-optimized-96gb-48vcpu-600gb,1008,1,,48,96,600,ssd,11,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 8 GB,digitalocean-general-purpose-8gb-2vcpu-25gb,63,1,,2,8,25,ssd,4,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 16 GB,digitalocean-general-purpose-16gb-4vcpu-50gb,126,1,,4,16,50,ssd,5,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 32 GB,digitalocean-general-purpose-32gb-8vcpu-100gb,252,1,,8,32,100,ssd,6,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 64 GB,digitalocean-general-purpose-64gb-16vcpu-200gb,504,1,,16,64,200,ssd,7,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 128 GB,digitalocean-general-purpose-128gb-32vcpu-400gb,1008,1,,32,128,400,ssd,8,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,General Purpose 160 GB,digitalocean-general-purpose-160gb-40vcpu-500gb,1260,1,,40,160,500,ssd,9,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 16 GB,digitalocean-memory-optimized-16gb-2vcpu-50gb,84,1,,2,16,50,ssd,4,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 32 GB,digitalocean-memory-optimized-32gb-4vcpu-100gb,168,1,,4,32,100,ssd,6,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 64 GB,digitalocean-memory-optimized-64gb-8vcpu-200gb,336,1,,8,64,200,ssd,7,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 128 GB,digitalocean-memory-optimized-128gb-16vcpu-400gb,672,1,,16,128,400,ssd,8,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 192 GB,digitalocean-memory-optimized-192gb-24vcpu-600gb,1008,1,,24,192,600,ssd,9,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Memory-Optimized 256 GB,digitalocean-memory-optimized-256gb-32vcpu-800gb,1344,1,,32,256,800,ssd,10,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 16 GB,digitalocean-storage-optimized-16gb-2vcpu-300gb,131,1,,2,16,300,ssd,4,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 32 GB,digitalocean-storage-optimized-32gb-4vcpu-600gb,262,1,,4,32,600,ssd,6,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 64 GB,digitalocean-storage-optimized-64gb-8vcpu-1170gb,524,1,,8,64,1170,ssd,7,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 128 GB,digitalocean-storage-optimized-128gb-16vcpu-2340gb,1048,1,,16,128,2340,ssd,8,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 192 GB,digitalocean-storage-optimized-192gb-24vcpu-3520gb,1572,1,,24,192,3520,ssd,9,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+DigitalOcean,digitalocean,Storage-Optimized 256 GB,digitalocean-storage-optimized-256gb-32vcpu-4690gb,2096,1,,32,256,4690,ssd,10,2026-11-22T03:06:17.604Z,https://www.digitalocean.com/pricing/droplets
+Vultr,vultr,High Performance AMD 1 vCPU / 1 GB,vultr-hp-amd-1gb-1vcpu-25gb,6,1,,1,1,25,nvme,2,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 1 vCPU / 1 GB (São Paulo),vultr-hp-amd-1gb-1vcpu-25gb-sao,9,1,,1,1,25,nvme,2,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 1 vCPU / 2 GB,vultr-hp-amd-2gb-1vcpu-50gb,12,1,,1,2,50,nvme,3,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 1 vCPU / 2 GB (São Paulo),vultr-hp-amd-2gb-1vcpu-50gb-sao,18,1,,1,2,50,nvme,3,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 2 vCPU / 2 GB,vultr-hp-amd-2gb-2vcpu-60gb,18,1,,2,2,60,nvme,4,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 2 vCPU / 2 GB (São Paulo),vultr-hp-amd-2gb-2vcpu-60gb-sao,27,1,,2,2,60,nvme,4,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 2 vCPU / 4 GB,vultr-hp-amd-4gb-2vcpu-100gb,24,1,,2,4,100,nvme,5,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 2 vCPU / 4 GB (São Paulo),vultr-hp-amd-4gb-2vcpu-100gb-sao,36,1,,2,4,100,nvme,5,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 4 vCPU / 8 GB,vultr-hp-amd-8gb-4vcpu-180gb,48,1,,4,8,180,nvme,6,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 4 vCPU / 8 GB (São Paulo),vultr-hp-amd-8gb-4vcpu-180gb-sao,72,1,,4,8,180,nvme,6,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 4 vCPU / 12 GB,vultr-hp-amd-12gb-4vcpu-260gb,72,1,,4,12,260,nvme,7,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 4 vCPU / 12 GB (São Paulo),vultr-hp-amd-12gb-4vcpu-260gb-sao,108,1,,4,12,260,nvme,7,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 8 vCPU / 16 GB,vultr-hp-amd-16gb-8vcpu-350gb,96,1,,8,16,350,nvme,8,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 8 vCPU / 16 GB (São Paulo),vultr-hp-amd-16gb-8vcpu-350gb-sao,144,1,,8,16,350,nvme,8,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 12 vCPU / 24 GB,vultr-hp-amd-24gb-12vcpu-500gb,144,1,,12,24,500,nvme,12,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Vultr,vultr,High Performance AMD 12 vCPU / 24 GB (São Paulo),vultr-hp-amd-24gb-12vcpu-500gb-sao,216,1,,12,24,500,nvme,12,2026-11-22T03:06:17.604Z,https://www.vultr.com/pricing/
+Linode,linode,Nanode 1GB,linode-g6-nanode-1,5,1,,1,1,25,ssd,1,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 2GB,linode-g6-standard-1,12,1,,1,2,50,ssd,2,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 4GB,linode-g6-standard-2,24,1,,2,4,80,ssd,4,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 8GB,linode-g6-standard-4,48,1,,4,8,160,ssd,5,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 16GB,linode-g6-standard-6,96,1,,6,16,320,ssd,8,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 32GB,linode-g6-standard-8,192,1,,8,32,640,ssd,16,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 64GB,linode-g6-standard-16,384,1,,16,64,1280,ssd,20,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 96GB,linode-g6-standard-20,576,1,,20,96,1920,ssd,20,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 128GB,linode-g6-standard-24,768,1,,24,128,2560,ssd,20,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Linode,linode,Linode 192GB,linode-g6-standard-32,1152,1,,32,192,3840,ssd,20,2026-11-22T03:06:17.604Z,https://www.linode.com/pricing/
+Hetzner,hetzner,CPX02,hetzner-cpx02,5.97,1,,1,1,20,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX02 (Singapore),hetzner-cpx02-sg,9.59,1,,1,1,20,nvme,0.5,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX12,hetzner-cpx12,10.86,1,,1,2,40,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX12 (Singapore),hetzner-cpx12-sg,18.59,1,,1,2,40,nvme,0.5,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX22,hetzner-cpx22,18.47,1,,2,4,80,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX22 (Singapore),hetzner-cpx22-sg,31.59,1,,2,4,80,nvme,1,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX32,hetzner-cpx32,33.14,1,,4,8,160,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX32 (Singapore),hetzner-cpx32-sg,58.59,1,,4,8,160,nvme,2,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX42,hetzner-cpx42,64.66,1,,8,16,320,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX42 (Singapore),hetzner-cpx42-sg,110.59,1,,8,16,320,nvme,3,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX52,hetzner-cpx52,92.92,1,,12,24,480,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX52 (Singapore),hetzner-cpx52-sg,159.09,1,,12,24,480,nvme,4,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX62,hetzner-cpx62,120.64,1,,16,32,640,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX62 (Singapore),hetzner-cpx62-sg,203.59,1,,16,32,640,nvme,5,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX11 (US),hetzner-cpx11-us,21.09,1,,2,2,40,nvme,1,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX21 (US),hetzner-cpx21-us,38.09,1,,3,4,80,nvme,2,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX31 (US),hetzner-cpx31-us,74.09,1,,4,8,160,nvme,3,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX41 (US),hetzner-cpx41-us,142.09,1,,8,16,240,nvme,4,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CPX51 (US),hetzner-cpx51-us,280.09,1,,16,32,360,nvme,5,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX13,hetzner-ccx13,40.21,1,,2,8,80,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX13 (US),hetzner-ccx13-us,51.59,1,,2,8,80,nvme,1,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX13 (Singapore),hetzner-ccx13-sg,64.09,1,,2,8,80,nvme,1,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX23,hetzner-ccx23,79.88,1,,4,16,160,nvme,20,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX23 (US),hetzner-ccx23-us,103.59,1,,4,16,160,nvme,2,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX23 (Singapore),hetzner-ccx23-sg,128.59,1,,4,16,160,nvme,2,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX33,hetzner-ccx33,128.25,1,,8,32,240,nvme,30,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX33 (US),hetzner-ccx33-us,166.59,1,,8,32,240,nvme,3,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX33 (Singapore),hetzner-ccx33-sg,206.59,1,,8,32,240,nvme,3,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX43,hetzner-ccx43,255.42,1,,16,64,360,nvme,40,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX43 (US),hetzner-ccx43-us,330.09,1,,16,64,360,nvme,4,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX43 (Singapore),hetzner-ccx43-sg,402.59,1,,16,64,360,nvme,4,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX53,hetzner-ccx53,492.92,1,,32,128,600,nvme,50,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX53 (US),hetzner-ccx53-us,636.09,1,,32,128,600,nvme,6,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX53 (Singapore),hetzner-ccx53-sg,770.09,1,,32,128,600,nvme,6,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX63,hetzner-ccx63,788.58,1,,48,192,960,nvme,60,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX63 (US),hetzner-ccx63-us,1015.09,1,,48,192,960,nvme,8,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Hetzner,hetzner,CCX63 (Singapore),hetzner-ccx63-sg,1224.09,1,,48,192,960,nvme,8,2026-11-22T03:06:17.604Z,https://www.hetzner.com/cloud/
+Contabo,contabo,Cloud VPS 4,contabo-cloud-vps-core-4,5.28,24,6.6,4,8,100,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS 6,contabo-cloud-vps-core-6,7.2,24,9,6,12,200,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS 8,contabo-cloud-vps-core-8,13.44,24,16.8,8,24,300,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS 12,contabo-cloud-vps-core-12,24,24,30,12,48,400,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS 16,contabo-cloud-vps-core-16,35.6,24,44.5,16,64,500,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS 18,contabo-cloud-vps-core-18,47.04,24,58.8,18,96,600,ssd,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 4,contabo-cloud-vps-plus-4,13,24,16.25,4,8,150,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 6,contabo-cloud-vps-plus-6,18.4,24,23,6,12,300,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 8,contabo-cloud-vps-plus-8,33.6,24,42,8,24,450,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 12,contabo-cloud-vps-plus-12,56.8,24,71,12,48,600,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 16,contabo-cloud-vps-plus-16,76,24,95,16,64,750,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VPS Plus 18,contabo-cloud-vps-plus-18,95.2,24,119,18,96,900,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VDS S,contabo-vds-s,52,24,65,6,24,180,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VDS M,contabo-vds-m,65.2,24,81.5,8,32,240,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VDS L,contabo-vds-l,92,24,115,12,48,360,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VDS XL,contabo-vds-xl,124,24,155,16,64,480,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+Contabo,contabo,Cloud VDS XXL,contabo-vds-xxl,181.6,24,227,24,96,720,nvme,,2026-11-22T03:06:17.604Z,https://contabo.com/en/vps/
+AWS Lightsail,aws-lightsail,Lightsail 512 MB,aws-lightsail-512mb-2vcpu-20gb,5,1,,2,0.5,20,ssd,1,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 1 GB,aws-lightsail-1gb-2vcpu-40gb,7,1,,2,1,40,ssd,2,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 2 GB,aws-lightsail-2gb-2vcpu-60gb,12,1,,2,2,60,ssd,3,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,"Lightsail 4 GB (2 vCPU, 80 GB)",aws-lightsail-4gb-2vcpu-80gb,24,1,,2,4,80,ssd,4,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 8 GB (2 vCPU),aws-lightsail-8gb-2vcpu-160gb,44,1,,2,8,160,ssd,5,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 16 GB (4 vCPU),aws-lightsail-16gb-4vcpu-320gb,84,1,,4,16,320,ssd,6,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 32 GB (8 vCPU),aws-lightsail-32gb-8vcpu-640gb,164,1,,8,32,640,ssd,7,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 64 GB (16 vCPU),aws-lightsail-64gb-16vcpu-1280gb,384,1,,16,64,1280,ssd,8,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 128 GB (32 vCPU),aws-lightsail-128gb-32vcpu-1280gb,884,1,,32,128,1280,ssd,9,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 192 GB,aws-lightsail-192gb-48vcpu-1280gb,1324,1,,48,192,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 256 GB (64 vCPU),aws-lightsail-256gb-64vcpu-1280gb,1764,1,,64,256,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 16 GB (2 vCPU),aws-lightsail-16gb-2vcpu-160gb,74,1,,2,16,160,ssd,5,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 32 GB (4 vCPU),aws-lightsail-32gb-4vcpu-320gb,144,1,,4,32,320,ssd,6,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 64 GB (8 vCPU),aws-lightsail-64gb-8vcpu-640gb,294,1,,8,64,640,ssd,7,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 128 GB (16 vCPU),aws-lightsail-128gb-16vcpu-1280gb,584,1,,16,128,1280,ssd,8,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 256 GB (32 vCPU),aws-lightsail-256gb-32vcpu-1280gb,1174,1,,32,256,1280,ssd,9,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 384 GB,aws-lightsail-384gb-48vcpu-1280gb,1764,1,,48,384,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 512 GB,aws-lightsail-512gb-64vcpu-1280gb,2344,1,,64,512,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,"Lightsail 4 GB (2 vCPU, 160 GB)",aws-lightsail-4gb-2vcpu-160gb,42,1,,2,4,160,ssd,5,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 8 GB (4 vCPU),aws-lightsail-8gb-4vcpu-320gb,84,1,,4,8,320,ssd,6,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 16 GB (8 vCPU),aws-lightsail-16gb-8vcpu-640gb,168,1,,8,16,640,ssd,7,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 32 GB (16 vCPU),aws-lightsail-32gb-16vcpu-1280gb,336,1,,16,32,1280,ssd,8,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 72 GB,aws-lightsail-72gb-36vcpu-1280gb,844,1,,36,72,1280,ssd,9,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 96 GB,aws-lightsail-96gb-48vcpu-1280gb,1126,1,,48,96,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+AWS Lightsail,aws-lightsail,Lightsail 144 GB,aws-lightsail-144gb-72vcpu-1280gb,1688,1,,72,144,1280,ssd,10,2026-11-22T03:06:17.604Z,https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1
+IONOS,ionos,VPS S+,ionos-vps-s+-2gb-1vcpu,6,12,,1,2,60,nvme,,2026-11-22T03:06:17.604Z,https://www.ionos.com/servers/vps
+IONOS,ionos,VPS M+,ionos-vps-m+-4gb-2vcpu,14,12,,2,4,120,nvme,,2026-11-22T03:06:17.604Z,https://www.ionos.com/servers/vps
+IONOS,ionos,VPS L+,ionos-vps-l+-8gb-4vcpu,25,12,,4,8,240,nvme,,2026-11-22T03:06:17.604Z,https://www.ionos.com/servers/vps
+IONOS,ionos,VPS XL+,ionos-vps-xl+-16gb-8vcpu,47,12,,8,16,480,nvme,,2026-11-22T03:06:17.604Z,https://www.ionos.com/servers/vps
+Hostwinds,hostwinds,Managed VPS 1GB RAM 1CPU,hostwinds-1gb-1cpu-30gb-1tb,4.99,1,,1,1,30,ssd,1,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 2GB RAM 1CPU,hostwinds-2gb-1cpu-50gb-2tb,9.99,1,,1,2,50,ssd,2,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 4GB RAM 2CPU,hostwinds-4gb-2cpu-75gb-2tb,18.99,1,,2,4,75,ssd,2,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 6GB RAM 2CPU,hostwinds-6gb-2cpu-100gb-2tb,28.99,1,,2,6,100,ssd,2,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 8GB RAM 4CPU,hostwinds-8gb-4cpu-150gb-3tb,38.99,1,,4,8,150,ssd,3,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 12GB RAM 4CPU,hostwinds-12gb-4cpu-200gb-4tb,49.99,1,,4,12,200,ssd,4,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 16GB RAM 6CPU,hostwinds-16gb-6cpu-300gb-5tb,76.99,1,,6,16,300,ssd,5,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 32GB RAM 8CPU,hostwinds-32gb-8cpu-400gb-6tb,124.99,1,,8,32,400,ssd,6,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 64GB RAM 12CPU,hostwinds-64gb-12cpu-500gb-8tb,214.99,1,,12,64,500,ssd,8,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+Hostwinds,hostwinds,Managed VPS 96GB RAM 16CPU,hostwinds-96gb-16cpu-750gb-9tb,328.99,1,,16,96,750,ssd,9,2026-11-22T03:06:17.604Z,https://www.hostwinds.com/vps/unmanaged-linux
+InterServer,interserver,1 Slice,interserver-1-slice-2gb-1cpu,3,1,,1,2,40,ssd,2,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,2 Slice,interserver-2-slice-4gb-1cpu,6,1,,1,4,80,ssd,4,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,4 Slice,interserver-4-slice-8gb-2cpu,12,1,,2,8,160,ssd,8,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,8 Slice,interserver-8-slice-16gb-4cpu,24,1,,4,16,320,ssd,16,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,12 Slice,interserver-12-slice-24gb-6cpu,36,1,,6,24,480,ssd,24,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,16 Slice,interserver-16-slice-32gb-8cpu,48,1,,8,32,640,ssd,32,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,24 Slice,interserver-24-slice-48gb-12cpu,72,1,,12,48,960,ssd,48,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+InterServer,interserver,32 Slice,interserver-32-slice-64gb-16cpu,96,1,,16,64,1280,ssd,64,2026-11-22T03:06:17.604Z,https://www.interserver.net/vps/
+A2 Hosting,a2-hosting,Linux VPS 2GB,a2-hosting-linux-vps-2gb,3.49,36,8.99,1,2,40,nvme,,2026-11-22T03:06:17.604Z,https://hosting.com/hosting/vps-hosting/unmanaged/
+A2 Hosting,a2-hosting,Linux VPS 4GB,a2-hosting-linux-vps-4gb,6.99,36,17.99,2,4,80,nvme,,2026-11-22T03:06:17.604Z,https://hosting.com/hosting/vps-hosting/unmanaged/
+A2 Hosting,a2-hosting,Linux VPS 8GB,a2-hosting-linux-vps-8gb,9.99,36,24.99,4,8,160,nvme,,2026-11-22T03:06:17.604Z,https://hosting.com/hosting/vps-hosting/unmanaged/
+A2 Hosting,a2-hosting,Linux VPS 16GB,a2-hosting-linux-vps-16gb,17.99,36,44.99,8,16,320,nvme,,2026-11-22T03:06:17.604Z,https://hosting.com/hosting/vps-hosting/unmanaged/
+A2 Hosting,a2-hosting,Linux VPS 32GB,a2-hosting-linux-vps-32gb,34.99,36,84.99,16,32,640,nvme,,2026-11-22T03:06:17.604Z,https://hosting.com/hosting/vps-hosting/unmanaged/
+Namecheap,namecheap,Spark,namecheap-spark,3.88,12,,1,1,20,ssd,1,2026-11-22T03:06:17.604Z,https://www.namecheap.com/hosting/vps/
+Namecheap,namecheap,Pulsar,namecheap-pulsar,6.88,12,,2,2,40,ssd,1,2026-11-22T03:06:17.604Z,https://www.namecheap.com/hosting/vps/
+Namecheap,namecheap,Quasar,namecheap-quasar,12.88,12,,4,6,120,ssd,3,2026-11-22T03:06:17.604Z,https://www.namecheap.com/hosting/vps/
+Namecheap,namecheap,Magnetar,namecheap-magnetar,24.88,12,,8,12,240,ssd,6,2026-11-22T03:06:17.604Z,https://www.namecheap.com/hosting/vps/
+Namecheap,namecheap,Hypernova,namecheap-hypernova,46.88,12,,12,24,500,ssd,10,2026-11-22T03:06:17.604Z,https://www.namecheap.com/hosting/vps/
+Liquid Web,liquidweb,Compute 2GB,liquidweb-compute-2gb-1vcpu-60gb,11,1,,1,2,60,ssd,2,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 4GB,liquidweb-compute-4gb-2vcpu-80gb,17,1,,2,4,80,ssd,3,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 6GB,liquidweb-compute-6gb-2vcpu-120gb,22,1,,2,6,120,ssd,4,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 8GB,liquidweb-compute-8gb-4vcpu-240gb,45,1,,4,8,240,ssd,5,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 12GB,liquidweb-compute-12gb-4vcpu-320gb,67,1,,4,12,320,ssd,6,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 16GB,liquidweb-compute-16gb-6vcpu-440gb,90,1,,6,16,440,ssd,7,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 24GB,liquidweb-compute-24gb-6vcpu-540gb,123,1,,6,24,540,ssd,8,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Compute 32GB,liquidweb-compute-32gb-8vcpu-640gb,179,1,,8,32,640,ssd,10,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 4GB,liquidweb-memory-4gb-1vcpu-120gb,17,1,,1,4,120,ssd,2,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 8GB,liquidweb-memory-8gb-2vcpu-180gb,34,1,,2,8,180,ssd,2,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 12GB,liquidweb-memory-12gb-4vcpu-240gb,56,1,,4,12,240,ssd,4,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 16GB,liquidweb-memory-16gb-4vcpu-320gb,78,1,,4,16,320,ssd,4,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 24GB,liquidweb-memory-24gb-8vcpu-640gb,157,1,,8,24,640,ssd,6,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,Memory 32GB,liquidweb-memory-32gb-12vcpu-960gb,308,1,,12,32,960,ssd,8,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 2GB,liquidweb-cpu-2gb-3vcpu-60gb,22,1,,3,2,60,ssd,2,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 4GB,liquidweb-cpu-4gb-4vcpu-120gb,34,1,,4,4,120,ssd,2,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 8GB,liquidweb-cpu-8gb-6vcpu-180gb,56,1,,6,8,180,ssd,4,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 12GB,liquidweb-cpu-12gb-8vcpu-240gb,112,1,,8,12,240,ssd,4,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 16GB,liquidweb-cpu-16gb-12vcpu-320gb,224,1,,12,16,320,ssd,6,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+Liquid Web,liquidweb,CPU 32GB,liquidweb-cpu-32gb-16vcpu-400gb,392,1,,16,32,400,ssd,8,2026-11-22T03:06:17.604Z,https://www.liquidweb.com/linux-vps-hosting/#plans
+InMotion Hosting,inmotion,VPS 4 vCPU,inmotion-vps-4-vcpu,11.54,24,,4,8,160,nvme,5,2026-11-22T03:06:17.604Z,https://www.inmotionhosting.com/vps-hosting
+InMotion Hosting,inmotion,VPS 8 vCPU,inmotion-vps-8-vcpu,18.91,24,,8,16,260,nvme,,2026-11-22T03:06:17.604Z,https://www.inmotionhosting.com/vps-hosting
+InMotion Hosting,inmotion,VPS 12 vCPU,inmotion-vps-12-vcpu,31.52,24,,12,24,360,nvme,,2026-11-22T03:06:17.604Z,https://www.inmotionhosting.com/vps-hosting
+InMotion Hosting,inmotion,VPS 16 vCPU,inmotion-vps-16-vcpu,42.03,24,,16,32,460,nvme,,2026-11-22T03:06:17.604Z,https://www.inmotionhosting.com/vps-hosting
+Time4VPS,time4vps,Linux 1,time4vps-linux-1,2.7,12,,1,1,10,ssd,1,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 2,time4vps-linux-2,2.5,12,,1,2,25,ssd,4,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 4,time4vps-linux-4,3.79,12,,2,4,50,ssd,8,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 8,time4vps-linux-8,6.16,12,,3,8,100,ssd,16,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 16,time4vps-linux-16,11.04,12,,4,16,200,ssd,32,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 24,time4vps-linux-24,20.13,12,,6,24,300,ssd,48,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 32,time4vps-linux-32,39.62,12,,8,32,400,ssd,64,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 48,time4vps-linux-48,77.29,12,,12,48,600,ssd,96,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+Time4VPS,time4vps,Linux 64,time4vps-linux-64,152.64,12,,16,64,800,ssd,128,2026-11-19T11:59:44.751Z,https://www.time4vps.com/linux-vps/
+RackNerd,racknerd,1 GB KVM VPS,racknerd-1-gb-kvm-vps,1.33,12,,1,1,20,ssd,3,2026-11-22T03:06:17.604Z,https://www.racknerd.com/specials/
+RackNerd,racknerd,2.5 GB KVM VPS,racknerd-2-5-gb-kvm-vps,2.33,12,,2,2.5,30,ssd,6,2026-11-22T03:06:17.604Z,https://www.racknerd.com/specials/
+RackNerd,racknerd,4 GB KVM VPS,racknerd-4-gb-kvm-vps,4,12,,4,4,60,ssd,10,2026-11-22T03:06:17.604Z,https://www.racknerd.com/specials/
+RackNerd,racknerd,6 GB KVM VPS,racknerd-6-gb-kvm-vps,6.25,12,,6,6,85,ssd,15,2026-11-22T03:06:17.604Z,https://www.racknerd.com/specials/
+RackNerd,racknerd,8 GB KVM VPS,racknerd-8-gb-kvm-vps,7.92,12,,6,8,140,ssd,20,2026-11-22T03:06:17.604Z,https://www.racknerd.com/specials/
+UltaHost,ultahost,VPS Basic,ultahost-vps-basic,6.88,12,,1,1,30,nvme,0,2026-11-22T03:06:17.604Z,https://ultahost.com/vps-hosting
+UltaHost,ultahost,VPS Business,ultahost-vps-business,12.25,12,,2,2,50,nvme,,2026-11-22T03:06:17.604Z,https://ultahost.com/vps-hosting
+UltaHost,ultahost,VPS Professional,ultahost-vps-professional,19.99,12,,3,4,75,nvme,,2026-11-22T03:06:17.604Z,https://ultahost.com/vps-hosting
+UltaHost,ultahost,VPS Enterprise,ultahost-vps-enterprise,26.24,12,,4,6,100,nvme,,2026-11-22T03:06:17.604Z,https://ultahost.com/vps-hosting
+Bluehost,bluehost,NVMe 2,bluehost-nvme-2,4.49,24,5.69,1,2,50,nvme,,2026-11-22T03:06:17.604Z,https://www.bluehost.com/vps-hosting
+Bluehost,bluehost,NVMe 4,bluehost-nvme-4,8.49,24,11.99,2,4,100,nvme,,2026-11-22T03:06:17.604Z,https://www.bluehost.com/vps-hosting
+Bluehost,bluehost,NVMe 8,bluehost-nvme-8,12.49,24,28.99,4,8,200,nvme,,2026-11-22T03:06:17.604Z,https://www.bluehost.com/vps-hosting
+Bluehost,bluehost,NVMe 16,bluehost-nvme-16,25.99,24,49.99,8,16,450,nvme,,2026-11-22T03:06:17.604Z,https://www.bluehost.com/vps-hosting
+HostGator,hostgator,Snappy 1000 - NVMe 2,hostgator-snappy-1000---nvme-2,3.82,24,4.95,1,2,50,nvme,,2026-11-20T05:04:46.077Z,https://www.hostgator.com/vps-hosting
+HostGator,hostgator,Snappy 2000 - NVMe 4,hostgator-snappy-2000---nvme-4,8.49,24,9.35,2,4,100,nvme,,2026-11-20T05:04:46.077Z,https://www.hostgator.com/vps-hosting
+HostGator,hostgator,Snappy 4000 - NVMe 8,hostgator-snappy-4000---nvme-8,12.49,24,18.7,4,8,200,nvme,,2026-11-20T05:04:46.077Z,https://www.hostgator.com/vps-hosting
+HostGator,hostgator,Snappy 8000 - NVMe 16,hostgator-snappy-8000---nvme-16,25.99,24,39.53,8,16,450,nvme,,2026-11-20T05:04:46.077Z,https://www.hostgator.com/vps-hosting
+Fasthosts,fasthosts,VPS 1,fasthosts-vps-1,5.38,12,,1,2,60,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,VPS 2,fasthosts-vps-2,12.66,12,,2,4,120,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,VPS 4,fasthosts-vps-4,23.1,12,,4,8,240,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,RAM VPS 2,fasthosts-ram-vps-2,19.94,12,,2,8,120,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,VPS 8,fasthosts-vps-8,39.87,12,,8,16,480,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,RAM VPS 4,fasthosts-ram-vps-4,27.22,12,,4,16,240,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,VPS 12,fasthosts-vps-12,60.44,12,,12,24,720,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,RAM VPS 8,fasthosts-ram-vps-8,50.32,12,,8,32,480,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+Fasthosts,fasthosts,RAM VPS 16,fasthosts-ram-vps-16,107.28,12,,16,64,960,nvme,,2026-11-22T03:06:17.604Z,https://www.fasthosts.co.uk/virtual-private-servers
+RoseHosting,rosehosting,NVME 2 vps,rosehosting-2gb-2cpu-50gb,43.99,1,,2,2,50,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 4 vps,rosehosting-4gb-3cpu-80gb,64.99,1,,3,4,80,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 8 vps,rosehosting-8gb-4cpu-120gb,89.99,1,,4,8,120,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 12 vps,rosehosting-12gb-6cpu-160gb,129.99,1,,6,12,160,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 16 vps,rosehosting-16gb-8cpu-200gb,159.99,1,,8,16,200,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 24 vps,rosehosting-24gb-10cpu-300gb,199.99,1,,10,24,300,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 32 vps,rosehosting-32gb-12cpu-300gb,239.99,1,,12,32,300,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+RoseHosting,rosehosting,NVME 64 vps,rosehosting-64gb-12cpu-400gb,439.99,1,,12,64,400,nvme,,2026-11-22T03:06:17.604Z,https://www.rosehosting.com/linux-vps-hosting/
+HawkHost,hawkhost,HawkHost 1GB,hawkhost-1gb-1cpu-30gb,6,1,,1,1,30,nvme,2,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 2GB,hawkhost-2gb-1cpu-55gb,12,1,,1,2,55,nvme,4,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 4GB,hawkhost-4gb-2cpu-85gb,24,1,,2,4,85,nvme,5,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 8GB,hawkhost-8gb-4cpu-165gb,48,1,,4,8,165,nvme,6,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 16GB,hawkhost-16gb-6cpu-325gb,96,1,,6,16,325,nvme,8,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 32GB,hawkhost-32gb-8cpu-650gb,192,1,,8,32,650,nvme,16,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+HawkHost,hawkhost,HawkHost 64GB,hawkhost-64gb-16cpu-1300gb,384,1,,16,64,1300,nvme,20,2026-11-22T03:06:17.604Z,https://www.hawkhost.com/vps-hosting/
+VPSBG,vpsbg,Cloud VPS 1 vCPU / 1 GB,vpsbg-1vcpu-1gb-25gb,10.2,12,,1,1,25,nvme,2,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 1 vCPU / 2 GB,vpsbg-1vcpu-2gb-30gb,16.3,12,,1,2,30,nvme,3,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 2 GB,vpsbg-2vcpu-2gb-50gb,24.46,12,,2,2,50,nvme,3,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 4 GB,vpsbg-2vcpu-4gb-60gb,31.79,12,,2,4,60,nvme,5,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 8 GB (80 GB),vpsbg-2vcpu-8gb-80gb,52.99,12,,2,8,80,nvme,10,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 4 vCPU / 8 GB,vpsbg-4vcpu-8gb-80gb,63.59,12,,4,8,80,nvme,10,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 4 vCPU / 16 GB,vpsbg-4vcpu-16gb-100gb,97.83,12,,4,16,100,nvme,20,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 8 vCPU / 32 GB,vpsbg-8vcpu-32gb-200gb,195.65,12,,8,32,200,nvme,30,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 16 vCPU / 64 GB,vpsbg-16vcpu-64gb-400gb,391.3,12,,16,64,400,nvme,50,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 8 GB (50 GB),vpsbg-2vcpu-8gb-50gb,81.52,12,,2,8,50,nvme,10,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 24 vCPU / 96 GB,vpsbg-24vcpu-96gb-600gb,978.26,12,,24,96,600,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 32 vCPU / 128 GB,vpsbg-32vcpu-128gb-800gb,1304.35,12,,32,128,800,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 48 vCPU / 192 GB,vpsbg-48vcpu-192gb-1200gb,1956.52,12,,48,192,1200,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 32 GB,vpsbg-2vcpu-32gb-50gb,105.98,12,,2,32,50,nvme,10,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 4 vCPU / 64 GB,vpsbg-4vcpu-64gb-100gb,211.96,12,,4,64,100,nvme,20,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 6 vCPU / 96 GB,vpsbg-6vcpu-96gb-200gb,317.93,12,,6,96,200,nvme,30,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 8 vCPU / 128 GB,vpsbg-8vcpu-128gb-400gb,423.91,12,,8,128,400,nvme,50,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 12 vCPU / 192 GB,vpsbg-12vcpu-192gb-600gb,635.87,12,,12,192,600,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 16 vCPU / 256 GB,vpsbg-16vcpu-256gb-800gb,847.83,12,,16,256,800,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 24 vCPU / 384 GB,vpsbg-24vcpu-384gb-1200gb,1271.74,12,,24,384,1200,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 2 vCPU / 16 GB,vpsbg-2vcpu-16gb-300gb,150.82,12,,2,16,300,nvme,10,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 4 vCPU / 32 GB,vpsbg-4vcpu-32gb-600gb,301.63,12,,4,32,600,nvme,20,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 8 vCPU / 64 GB,vpsbg-8vcpu-64gb-1200gb,554.35,12,,8,64,1200,nvme,20,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 16 vCPU / 128 GB,vpsbg-16vcpu-128gb-2400gb,1108.7,12,,16,128,2400,nvme,30,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+VPSBG,vpsbg,Cloud VPS 24 vCPU / 192 GB,vpsbg-24vcpu-192gb-3600gb,1663.04,12,,24,192,3600,nvme,100,2026-11-22T03:06:17.604Z,https://www.vpsbg.eu/pricing?category=cloudVps
+ScalaHosting,scalahosting,Config #1,scalahosting-build-1,19.95,12,24.95,2,4,50,nvme,,2026-11-22T03:06:17.604Z,https://www.scalahosting.com/cloud-vps-hosting.html
+ScalaHosting,scalahosting,Config #2,scalahosting-build-2,36.95,12,49.95,4,8,100,nvme,,2026-11-22T03:06:17.604Z,https://www.scalahosting.com/cloud-vps-hosting.html
+ScalaHosting,scalahosting,Config #3,scalahosting-build-3,66.95,12,95.95,8,16,160,nvme,,2026-11-22T03:06:17.604Z,https://www.scalahosting.com/cloud-vps-hosting.html
+ScalaHosting,scalahosting,Config #4,scalahosting-build-4,122.95,12,183.95,16,32,240,nvme,,2026-11-22T03:06:17.604Z,https://www.scalahosting.com/cloud-vps-hosting.html
+FastComet,fastcomet,Cloud 2,fastcomet-cloud-2,29.99,,76.95,2,4,80,nvme,4,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 3,fastcomet-cloud-3,69.27,,98.95,4,8,160,nvme,5,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 4,fastcomet-cloud-4,107.77,,153.95,6,16,320,nvme,8,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 5,fastcomet-cloud-5,241.95,,,8,32,640,nvme,16,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 6,fastcomet-cloud-6,417.95,,,16,64,1280,nvme,20,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 7,fastcomet-cloud-7,559.95,,,20,96,1920,nvme,20,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+FastComet,fastcomet,Cloud 8,fastcomet-cloud-8,719.95,,,24,128,2560,nvme,20,2026-11-22T03:06:17.604Z,https://www.fastcomet.com/vps-pricing
+AccuWebHosting,accuwebhosting,VPS Edge,accuwebhosting-edge,4.9,24,9.89,1,4,50,nvme,0.25,2026-11-22T03:06:17.604Z,https://www.accuwebhosting.com/vps-hosting/linux
+AccuWebHosting,accuwebhosting,VPS Peak,accuwebhosting-peak,6.88,24,19.79,2,8,100,nvme,0.45,2026-11-22T03:06:17.604Z,https://www.accuwebhosting.com/vps-hosting/linux
+AccuWebHosting,accuwebhosting,VPS Power,accuwebhosting-power,9.85,24,39.59,3,16,200,nvme,0.65,2026-11-22T03:06:17.604Z,https://www.accuwebhosting.com/vps-hosting/linux
+AccuWebHosting,accuwebhosting,VPS Supreme,accuwebhosting-supreme,19.75,24,79.18,4,32,400,nvme,1,2026-11-22T03:06:17.604Z,https://www.accuwebhosting.com/vps-hosting/linux
+SiteGround,siteground,Jump Start,siteground-jump-start,86.4,1,,4,8,40,ssd,5,2026-11-22T03:06:17.604Z,https://eu.siteground.com/cloud-hosting.htm
+StableHost,stablehost,VZ 1GB,stablehost-vz-1gb,12.18,12,,1,1,40,ssd,2,2026-11-22T03:06:17.604Z,https://www.stablehost.com/vps-hosting.php
+StableHost,stablehost,VZ 2GB,stablehost-vz-2gb,18.01,12,,2,2,60,ssd,2,2026-11-22T03:06:17.604Z,https://www.stablehost.com/vps-hosting.php
+StableHost,stablehost,VZ 4GB,stablehost-vz-4gb,36.56,12,,4,4,100,ssd,4,2026-11-22T03:06:17.604Z,https://www.stablehost.com/vps-hosting.php
+StableHost,stablehost,VZ 8GB,stablehost-vz-8gb,73.4,12,,6,8,200,ssd,8,2026-11-22T03:06:17.604Z,https://www.stablehost.com/vps-hosting.php
+StableHost,stablehost,VZ 16GB,stablehost-vz-16gb,145.69,12,,8,16,300,ssd,16,2026-11-22T03:06:17.604Z,https://www.stablehost.com/vps-hosting.php
+Hostens,hostens,KVM 2 GB,hostens-kvm-2-gb,7.5,1,,1,2,20,ssd,4,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+Hostens,hostens,KVM 4 GB,hostens-kvm-4-gb,16,1,,2,4,40,ssd,8,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+Hostens,hostens,KVM 8 GB,hostens-kvm-8-gb,31.5,1,,3,8,80,ssd,16,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+Hostens,hostens,Storage Small,hostens-storage-small,6,1,,1,0.5,256,hdd,2,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+Hostens,hostens,Storage Medium,hostens-storage-medium,11,1,,1,1,512,hdd,4,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+Hostens,hostens,Storage Large,hostens-storage-large,21,1,,1,2,1024,hdd,8,2026-11-22T03:06:17.605Z,https://www.hostens.com/vps-hosting/
+HostPapa,hostpapa,Lite,hostpapa-lite,2.95,36,,1,1,25,nvme,4,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+HostPapa,hostpapa,Start,hostpapa-start,4.45,36,9.99,2,2,50,nvme,4,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+HostPapa,hostpapa,Progress,hostpapa-progress,7.45,36,19.99,4,4,100,nvme,8,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+HostPapa,hostpapa,Achieve,hostpapa-achieve,14.45,36,39.99,8,8,200,nvme,8,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+HostPapa,hostpapa,Excel,hostpapa-excel,22.45,36,59.99,16,16,300,nvme,,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+HostPapa,hostpapa,Triumph,hostpapa-triumph,44.45,36,79.99,32,32,500,nvme,,2026-11-22T03:06:17.605Z,https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/
+GreenGeeks,greengeeks,Self-managed VPS 4GB,greengeeks-self-managed-vps-4gb,6.49,12,,1,4,50,nvme,,2026-11-22T03:06:17.605Z,https://www.greengeeks.com/vps-hosting
+GreenGeeks,greengeeks,Self-managed VPS 8GB,greengeeks-self-managed-vps-8gb,8.79,12,,2,8,100,nvme,,2026-11-22T03:06:17.605Z,https://www.greengeeks.com/vps-hosting
+GreenGeeks,greengeeks,Self-managed VPS 16GB,greengeeks-self-managed-vps-16gb,12.99,12,,4,16,200,nvme,,2026-11-22T03:06:17.605Z,https://www.greengeeks.com/vps-hosting
+GreenGeeks,greengeeks,Self-managed VPS 32GB,greengeeks-self-managed-vps-32gb,25.99,12,,8,32,400,nvme,,2026-11-22T03:06:17.605Z,https://www.greengeeks.com/vps-hosting
+SupportHost,supporthost,Cloud 0 UnManaged,supporthost-cloud-0-unmanaged,18.48,12,,2,4,40,nvme,20,2026-11-22T03:06:17.605Z,https://supporthost.com/unmanaged-vps-cloud/
+SupportHost,supporthost,Cloud 1 UnManaged,supporthost-cloud-1-unmanaged,21.74,12,,4,8,80,nvme,20,2026-11-22T03:06:17.605Z,https://supporthost.com/unmanaged-vps-cloud/
+SupportHost,supporthost,Cloud 2 UnManaged,supporthost-cloud-2-unmanaged,31.52,12,,8,16,160,nvme,20,2026-11-22T03:06:17.605Z,https://supporthost.com/unmanaged-vps-cloud/
+SupportHost,supporthost,Cloud 3 UnManaged,supporthost-cloud-3-unmanaged,48.91,12,,16,32,320,nvme,20,2026-11-22T03:06:17.605Z,https://supporthost.com/unmanaged-vps-cloud/
+Raff Technologies,raff,Cost-Optimized 1 vCPU / 2 GB,raff-co-1vcpu-2gb-25gb,3.74,24,,1,2,25,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 2 vCPU / 2 GB,raff-co-2vcpu-2gb-25gb,5.24,24,,2,2,25,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 2 vCPU / 4 GB,raff-co-2vcpu-4gb-30gb,7.49,24,,2,4,30,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 2 vCPU / 8 GB,raff-co-2vcpu-8gb-40gb,12.74,24,,2,8,40,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 4 vCPU / 4 GB,raff-co-4vcpu-4gb-35gb,10.49,24,,4,4,35,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 4 vCPU / 8 GB,raff-co-4vcpu-8gb-50gb,14.99,24,,4,8,50,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 4 vCPU / 16 GB,raff-co-4vcpu-16gb-70gb,23.99,24,,4,16,70,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 8 vCPU / 8 GB,raff-co-8vcpu-8gb-60gb,20.99,24,,8,8,60,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 8 vCPU / 16 GB,raff-co-8vcpu-16gb-80gb,29.99,24,,8,16,80,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 8 vCPU / 32 GB,raff-co-8vcpu-32gb-120gb,52.49,24,,8,32,120,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 12 vCPU / 24 GB,raff-co-12vcpu-24gb-120gb,52.49,24,,12,24,120,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,Cost-Optimized 16 vCPU / 32 GB,raff-co-16vcpu-32gb-160gb,67.49,24,,16,32,160,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 1 vCPU / 1 GB,raff-gp-1vcpu-1gb-25gb,3.74,24,,1,1,25,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 1 vCPU / 2 GB,raff-gp-1vcpu-2gb-50gb,6.74,24,,1,2,50,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 2 vCPU / 2 GB,raff-gp-2vcpu-2gb-40gb,9.74,24,,2,2,40,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 2 vCPU / 4 GB,raff-gp-2vcpu-4gb-80gb,13.49,24,,2,4,80,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 2 vCPU / 8 GB,raff-gp-2vcpu-8gb-160gb,20.99,24,,2,8,160,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 4 vCPU / 4 GB,raff-gp-4vcpu-4gb-80gb,18.74,24,,4,4,80,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 4 vCPU / 8 GB,raff-gp-4vcpu-8gb-160gb,25.49,24,,4,8,160,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 4 vCPU / 16 GB,raff-gp-4vcpu-16gb-240gb,41.99,24,,4,16,240,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 8 vCPU / 8 GB,raff-gp-8vcpu-8gb-160gb,36.74,24,,8,8,160,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 8 vCPU / 16 GB,raff-gp-8vcpu-16gb-240gb,53.99,24,,8,16,240,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 8 vCPU / 32 GB,raff-gp-8vcpu-32gb-320gb,89.99,24,,8,32,320,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 12 vCPU / 24 GB,raff-gp-12vcpu-24gb-320gb,82.49,24,,12,24,320,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 16 vCPU / 16 GB,raff-gp-16vcpu-16gb-240gb,77.99,24,,16,16,240,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,General Purpose 16 vCPU / 32 GB,raff-gp-16vcpu-32gb-320gb,104.99,24,,16,32,320,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 1 vCPU / 1 GB,raff-cpu-1vcpu-1gb-25gb,11.99,24,,1,1,25,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 1 vCPU / 2 GB,raff-cpu-1vcpu-2gb-50gb,14.24,24,,1,2,50,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 2 vCPU / 2 GB,raff-cpu-2vcpu-2gb-50gb,23.24,24,,2,2,50,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 2 vCPU / 4 GB,raff-cpu-2vcpu-4gb-80gb,27.74,24,,2,4,80,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 4 vCPU / 4 GB,raff-cpu-4vcpu-4gb-80gb,45.74,24,,4,4,80,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 4 vCPU / 8 GB,raff-cpu-4vcpu-8gb-120gb,54.74,24,,4,8,120,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 8 vCPU / 8 GB,raff-cpu-8vcpu-8gb-120gb,90.74,24,,8,8,120,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 8 vCPU / 16 GB,raff-cpu-8vcpu-16gb-180gb,108.74,24,,8,16,180,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 8 vCPU / 32 GB,raff-cpu-8vcpu-32gb-240gb,144.74,24,,8,32,240,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 16 vCPU / 16 GB,raff-cpu-16vcpu-16gb-200gb,180.74,24,,16,16,200,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+Raff Technologies,raff,CPU-Optimized 16 vCPU / 32 GB,raff-cpu-16vcpu-32gb-360gb,216.74,24,,16,32,360,nvme,,2026-11-22T03:06:17.605Z,https://rafftechnologies.com/pricing
+CubePath,cubepath,Dedicated CPU dc.starter,cubepath-dc-starter,31.92,1,,4,8,100,nvme,10,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.small,cubepath-dc-small,60.31,1,,8,16,200,nvme,20,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.medium,cubepath-dc-medium,113.03,1,,12,32,300,nvme,40,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.pro,cubepath-dc-pro,159.67,1,,16,48,350,nvme,60,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.large,cubepath-dc-large,202.25,1,,24,64,400,nvme,80,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.xlarge,cubepath-dc-xlarge,254.97,1,,32,96,500,nvme,120,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.xxlarge,cubepath-dc-xxlarge,315.81,1,,40,128,800,nvme,160,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,Dedicated CPU dc.xxxlarge,cubepath-dc-xxxlarge,427.33,1,,48,192,1000,nvme,200,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.nano,cubepath-gp-nano,5.56,1,,1,2,40,nvme,3,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.micro,cubepath-gp-micro,9.61,1,,2,4,80,nvme,5,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.starter,cubepath-gp-starter,16.71,1,,4,8,100,nvme,10,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.small,cubepath-gp-small,30.9,1,,8,16,200,nvme,20,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.medium,cubepath-gp-medium,57.26,1,,12,32,300,nvme,40,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.pro,cubepath-gp-pro,80.58,1,,16,48,350,nvme,60,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.large,cubepath-gp-large,101.88,1,,24,64,400,nvme,80,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.xlarge,cubepath-gp-xlarge,128.24,1,,32,96,500,nvme,120,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.xxlarge,cubepath-gp-xxlarge,158.65,1,,40,128,800,nvme,160,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,General Purpose gp.xxxlarge,cubepath-gp-xxxlarge,214.42,1,,48,192,1000,nvme,200,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.nano,cubepath-rz-nano,5.56,1,,1,1,25,nvme,1,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.micro,cubepath-rz-micro,9.61,1,,1,2,40,nvme,2,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.starter,cubepath-rz-starter,17.72,1,,2,4,80,nvme,4,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.small,cubepath-rz-small,33.94,1,,4,8,160,nvme,8,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.medium,cubepath-rz-medium,66.39,1,,8,16,250,nvme,16,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.pro,cubepath-rz-pro,95.79,1,,8,24,300,nvme,24,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.large,cubepath-rz-large,123.17,1,,10,32,400,nvme,32,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency rz.xlarge,cubepath-rz-xlarge,173.86,1,,12,48,500,nvme,48,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.nano,cubepath-hd-nano,9.62,1,,1,1,25,nvme,1,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.micro,cubepath-hd-micro,17.72,1,,1,2,40,nvme,2,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.starter,cubepath-hd-starter,33.94,1,,2,4,80,nvme,4,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.small,cubepath-hd-small,66.38,1,,4,8,160,nvme,8,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.medium,cubepath-hd-medium,131.28,1,,8,16,250,nvme,16,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.pro,cubepath-hd-pro,190.09,1,,8,24,300,nvme,24,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.large,cubepath-hd-large,244.84,1,,10,32,400,nvme,32,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
+CubePath,cubepath,High Frequency Dedicated CPU hd.xlarge,cubepath-hd-xlarge,346.22,1,,12,48,500,nvme,48,2026-11-22T03:06:17.605Z,https://cubepath.com/pricing
