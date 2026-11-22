@@ -16,6 +16,10 @@ See the [field dictionary and methodology](https://vpsscouter.com/data) for deta
 
 ## Charts and price changes
 
+![Bar chart of the ten providers with the most plans in this snapshot](charts/plans-by-provider.svg)
+
+The weekly workflow regenerates the chart from the CSV. Plan counts describe dataset coverage.
+
 - [VPS price index](https://vpsscouter.com/vps-price-index) shows price trends over time.
 - [VPS price changes](https://vpsscouter.com/vps-price-changes) tracks changes in advertised plans and prices.
 
