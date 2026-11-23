@@ -4,9 +4,9 @@
   "url": "https://vpsscouter.com/data",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "citation": "VPS Scouter, https://vpsscouter.com/data, CC BY 4.0",
-  "updated_at": "2026-11-22T03:06:17.605Z",
-  "providers": 34,
-  "plans": 383,
+  "updated_at": "2026-11-23T05:03:58.440Z",
+  "providers": 41,
+  "plans": 530,
   "rows": [
     {
       "provider": "Hostinger",
@@ -21,7 +21,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-20T05:04:46.076Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.hostinger.com/vps-hosting"
     },
     {
@@ -37,7 +37,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-20T05:04:46.076Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.hostinger.com/vps-hosting"
     },
     {
@@ -53,7 +53,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-20T05:04:46.076Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.hostinger.com/vps-hosting"
     },
     {
@@ -69,7 +69,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 32,
-      "checked_at": "2026-11-20T05:04:46.076Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.hostinger.com/vps-hosting"
     },
     {
@@ -85,7 +85,7 @@
       "storage_gb": 10,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -101,7 +101,7 @@
       "storage_gb": 25,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -117,7 +117,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -133,7 +133,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -149,7 +149,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -165,7 +165,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -181,7 +181,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -197,7 +197,7 @@
       "storage_gb": 25,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -213,7 +213,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -229,7 +229,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -245,7 +245,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -261,7 +261,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -277,7 +277,7 @@
       "storage_gb": 600,
       "storage_type": "ssd",
       "bandwidth_tb": 11,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -293,7 +293,7 @@
       "storage_gb": 25,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -309,7 +309,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -325,7 +325,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -341,7 +341,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -357,7 +357,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -373,7 +373,7 @@
       "storage_gb": 500,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -389,7 +389,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -405,7 +405,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -421,7 +421,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -437,7 +437,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -453,7 +453,7 @@
       "storage_gb": 600,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -469,7 +469,7 @@
       "storage_gb": 800,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -485,7 +485,7 @@
       "storage_gb": 300,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -501,7 +501,7 @@
       "storage_gb": 600,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -517,7 +517,7 @@
       "storage_gb": 1170,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -533,7 +533,7 @@
       "storage_gb": 2340,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -549,7 +549,7 @@
       "storage_gb": 3520,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -565,7 +565,7 @@
       "storage_gb": 4690,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.digitalocean.com/pricing/droplets"
     },
     {
@@ -581,7 +581,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -597,7 +597,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -613,7 +613,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -629,7 +629,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -645,7 +645,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -661,7 +661,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -677,7 +677,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -693,7 +693,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -709,7 +709,7 @@
       "storage_gb": 180,
       "storage_type": "nvme",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -725,7 +725,7 @@
       "storage_gb": 180,
       "storage_type": "nvme",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -741,7 +741,7 @@
       "storage_gb": 260,
       "storage_type": "nvme",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -757,7 +757,7 @@
       "storage_gb": 260,
       "storage_type": "nvme",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -773,7 +773,7 @@
       "storage_gb": 350,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -789,7 +789,7 @@
       "storage_gb": 350,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -805,7 +805,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 12,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -821,7 +821,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 12,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.vultr.com/pricing/"
     },
     {
@@ -837,7 +837,7 @@
       "storage_gb": 25,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -853,7 +853,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -869,7 +869,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -885,7 +885,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -901,7 +901,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -917,7 +917,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -933,7 +933,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -949,7 +949,7 @@
       "storage_gb": 1920,
       "storage_type": "ssd",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -965,7 +965,7 @@
       "storage_gb": 2560,
       "storage_type": "ssd",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -981,7 +981,7 @@
       "storage_gb": 3840,
       "storage_type": "ssd",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.438Z",
       "source_url": "https://www.linode.com/pricing/"
     },
     {
@@ -997,7 +997,7 @@
       "storage_gb": 20,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1013,7 +1013,7 @@
       "storage_gb": 20,
       "storage_type": "nvme",
       "bandwidth_tb": 0.5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1029,7 +1029,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1045,7 +1045,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 0.5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1061,7 +1061,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1077,7 +1077,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1093,7 +1093,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1109,7 +1109,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1125,7 +1125,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1141,7 +1141,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1157,7 +1157,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1173,7 +1173,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1189,7 +1189,7 @@
       "storage_gb": 640,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1205,7 +1205,7 @@
       "storage_gb": 640,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1221,7 +1221,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1237,7 +1237,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1253,7 +1253,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1269,7 +1269,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1285,7 +1285,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1301,7 +1301,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1317,7 +1317,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1333,7 +1333,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1349,7 +1349,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1365,7 +1365,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1381,7 +1381,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1397,7 +1397,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": 30,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1413,7 +1413,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1429,7 +1429,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1445,7 +1445,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": 40,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1461,7 +1461,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1477,7 +1477,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1493,7 +1493,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 50,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1509,7 +1509,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1525,7 +1525,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1541,7 +1541,7 @@
       "storage_gb": 960,
       "storage_type": "nvme",
       "bandwidth_tb": 60,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1557,7 +1557,7 @@
       "storage_gb": 960,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1573,7 +1573,7 @@
       "storage_gb": 960,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hetzner.com/cloud/"
     },
     {
@@ -1589,7 +1589,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1605,7 +1605,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1621,7 +1621,7 @@
       "storage_gb": 300,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1637,7 +1637,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1653,7 +1653,7 @@
       "storage_gb": 500,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1669,7 +1669,7 @@
       "storage_gb": 600,
       "storage_type": "ssd",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1685,7 +1685,7 @@
       "storage_gb": 150,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1701,7 +1701,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1717,7 +1717,7 @@
       "storage_gb": 450,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1733,7 +1733,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1749,7 +1749,7 @@
       "storage_gb": 750,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1765,7 +1765,7 @@
       "storage_gb": 900,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1781,7 +1781,7 @@
       "storage_gb": 180,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1797,7 +1797,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1813,7 +1813,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1829,7 +1829,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1845,7 +1845,7 @@
       "storage_gb": 720,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://contabo.com/en/vps/"
     },
     {
@@ -1861,7 +1861,7 @@
       "storage_gb": 20,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1877,7 +1877,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1893,7 +1893,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1909,7 +1909,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1925,7 +1925,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1941,7 +1941,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1957,7 +1957,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1973,7 +1973,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -1989,7 +1989,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2005,7 +2005,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2021,7 +2021,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2037,7 +2037,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2053,7 +2053,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2069,7 +2069,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2085,7 +2085,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2101,7 +2101,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2117,7 +2117,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2133,7 +2133,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2149,7 +2149,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2165,7 +2165,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2181,7 +2181,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2197,7 +2197,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2213,7 +2213,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2229,7 +2229,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2245,7 +2245,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://aws.amazon.com/lightsail/pricing/?p=pm&c=ls&z=1"
     },
     {
@@ -2261,7 +2261,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.ionos.com/servers/vps"
     },
     {
@@ -2277,7 +2277,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.ionos.com/servers/vps"
     },
     {
@@ -2293,7 +2293,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.ionos.com/servers/vps"
     },
     {
@@ -2309,7 +2309,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.ionos.com/servers/vps"
     },
     {
@@ -2325,7 +2325,7 @@
       "storage_gb": 30,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2341,7 +2341,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2357,7 +2357,7 @@
       "storage_gb": 75,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2373,7 +2373,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2389,7 +2389,7 @@
       "storage_gb": 150,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2405,7 +2405,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2421,7 +2421,7 @@
       "storage_gb": 300,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2437,7 +2437,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2453,7 +2453,7 @@
       "storage_gb": 500,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2469,7 +2469,7 @@
       "storage_gb": 750,
       "storage_type": "ssd",
       "bandwidth_tb": 9,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostwinds.com/vps/unmanaged-linux"
     },
     {
@@ -2485,7 +2485,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2501,7 +2501,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2517,7 +2517,7 @@
       "storage_gb": 160,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2533,7 +2533,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2549,7 +2549,7 @@
       "storage_gb": 480,
       "storage_type": "ssd",
       "bandwidth_tb": 24,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2565,7 +2565,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 32,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2581,7 +2581,7 @@
       "storage_gb": 960,
       "storage_type": "ssd",
       "bandwidth_tb": 48,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2597,7 +2597,7 @@
       "storage_gb": 1280,
       "storage_type": "ssd",
       "bandwidth_tb": 64,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.interserver.net/vps/"
     },
     {
@@ -2613,7 +2613,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://hosting.com/hosting/vps-hosting/unmanaged/"
     },
     {
@@ -2629,7 +2629,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://hosting.com/hosting/vps-hosting/unmanaged/"
     },
     {
@@ -2645,7 +2645,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://hosting.com/hosting/vps-hosting/unmanaged/"
     },
     {
@@ -2661,7 +2661,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://hosting.com/hosting/vps-hosting/unmanaged/"
     },
     {
@@ -2677,7 +2677,7 @@
       "storage_gb": 640,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://hosting.com/hosting/vps-hosting/unmanaged/"
     },
     {
@@ -2693,7 +2693,7 @@
       "storage_gb": 20,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.namecheap.com/hosting/vps/"
     },
     {
@@ -2709,7 +2709,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.namecheap.com/hosting/vps/"
     },
     {
@@ -2725,7 +2725,7 @@
       "storage_gb": 120,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.namecheap.com/hosting/vps/"
     },
     {
@@ -2741,7 +2741,7 @@
       "storage_gb": 240,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.namecheap.com/hosting/vps/"
     },
     {
@@ -2757,7 +2757,7 @@
       "storage_gb": 500,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.namecheap.com/hosting/vps/"
     },
     {
@@ -2773,7 +2773,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2789,7 +2789,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2805,7 +2805,7 @@
       "storage_gb": 120,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2821,7 +2821,7 @@
       "storage_gb": 240,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2837,7 +2837,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2853,7 +2853,7 @@
       "storage_gb": 440,
       "storage_type": "ssd",
       "bandwidth_tb": 7,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2869,7 +2869,7 @@
       "storage_gb": 540,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2885,7 +2885,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2901,7 +2901,7 @@
       "storage_gb": 120,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2917,7 +2917,7 @@
       "storage_gb": 180,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2933,7 +2933,7 @@
       "storage_gb": 240,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2949,7 +2949,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2965,7 +2965,7 @@
       "storage_gb": 640,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2981,7 +2981,7 @@
       "storage_gb": 960,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -2997,7 +2997,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3013,7 +3013,7 @@
       "storage_gb": 120,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3029,7 +3029,7 @@
       "storage_gb": 180,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3045,7 +3045,7 @@
       "storage_gb": 240,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3061,7 +3061,7 @@
       "storage_gb": 320,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3077,7 +3077,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.liquidweb.com/linux-vps-hosting/#plans"
     },
     {
@@ -3093,7 +3093,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.inmotionhosting.com/vps-hosting"
     },
     {
@@ -3109,7 +3109,7 @@
       "storage_gb": 260,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.inmotionhosting.com/vps-hosting"
     },
     {
@@ -3125,7 +3125,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.inmotionhosting.com/vps-hosting"
     },
     {
@@ -3141,7 +3141,7 @@
       "storage_gb": 460,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.inmotionhosting.com/vps-hosting"
     },
     {
@@ -3149,7 +3149,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 1",
       "plan_id": "time4vps-linux-1",
-      "price_usd_month": 2.7,
+      "price_usd_month": 3.25,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 1,
@@ -3157,7 +3157,7 @@
       "storage_gb": 10,
       "storage_type": "ssd",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3165,7 +3165,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 2",
       "plan_id": "time4vps-linux-2",
-      "price_usd_month": 2.5,
+      "price_usd_month": 2.51,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 1,
@@ -3173,7 +3173,7 @@
       "storage_gb": 25,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3181,7 +3181,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 4",
       "plan_id": "time4vps-linux-4",
-      "price_usd_month": 3.79,
+      "price_usd_month": 3.82,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 2,
@@ -3189,7 +3189,7 @@
       "storage_gb": 50,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3197,7 +3197,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 8",
       "plan_id": "time4vps-linux-8",
-      "price_usd_month": 6.16,
+      "price_usd_month": 6.2,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 3,
@@ -3205,7 +3205,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3213,7 +3213,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 16",
       "plan_id": "time4vps-linux-16",
-      "price_usd_month": 11.04,
+      "price_usd_month": 11.09,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 4,
@@ -3221,7 +3221,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 32,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3229,7 +3229,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 24",
       "plan_id": "time4vps-linux-24",
-      "price_usd_month": 20.13,
+      "price_usd_month": 20.22,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 6,
@@ -3237,7 +3237,7 @@
       "storage_gb": 300,
       "storage_type": "ssd",
       "bandwidth_tb": 48,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3245,7 +3245,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 32",
       "plan_id": "time4vps-linux-32",
-      "price_usd_month": 39.62,
+      "price_usd_month": 39.78,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 8,
@@ -3253,7 +3253,7 @@
       "storage_gb": 400,
       "storage_type": "ssd",
       "bandwidth_tb": 64,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3261,7 +3261,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 48",
       "plan_id": "time4vps-linux-48",
-      "price_usd_month": 77.29,
+      "price_usd_month": 77.61,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 12,
@@ -3269,7 +3269,7 @@
       "storage_gb": 600,
       "storage_type": "ssd",
       "bandwidth_tb": 96,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3277,7 +3277,7 @@
       "provider_slug": "time4vps",
       "plan": "Linux 64",
       "plan_id": "time4vps-linux-64",
-      "price_usd_month": 152.64,
+      "price_usd_month": 153.26,
       "term_months": 12,
       "renewal_usd_month": null,
       "vcpu": 16,
@@ -3285,7 +3285,7 @@
       "storage_gb": 800,
       "storage_type": "ssd",
       "bandwidth_tb": 128,
-      "checked_at": "2026-11-19T11:59:44.751Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.time4vps.com/linux-vps/"
     },
     {
@@ -3301,7 +3301,7 @@
       "storage_gb": 20,
       "storage_type": "ssd",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.racknerd.com/specials/"
     },
     {
@@ -3317,7 +3317,7 @@
       "storage_gb": 30,
       "storage_type": "ssd",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.racknerd.com/specials/"
     },
     {
@@ -3333,7 +3333,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.racknerd.com/specials/"
     },
     {
@@ -3349,7 +3349,7 @@
       "storage_gb": 85,
       "storage_type": "ssd",
       "bandwidth_tb": 15,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.racknerd.com/specials/"
     },
     {
@@ -3365,7 +3365,7 @@
       "storage_gb": 140,
       "storage_type": "ssd",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.racknerd.com/specials/"
     },
     {
@@ -3381,7 +3381,7 @@
       "storage_gb": 30,
       "storage_type": "nvme",
       "bandwidth_tb": 0,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://ultahost.com/vps-hosting"
     },
     {
@@ -3397,7 +3397,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://ultahost.com/vps-hosting"
     },
     {
@@ -3413,7 +3413,7 @@
       "storage_gb": 75,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://ultahost.com/vps-hosting"
     },
     {
@@ -3429,7 +3429,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://ultahost.com/vps-hosting"
     },
     {
@@ -3445,7 +3445,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.bluehost.com/vps-hosting"
     },
     {
@@ -3461,7 +3461,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.bluehost.com/vps-hosting"
     },
     {
@@ -3477,7 +3477,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.bluehost.com/vps-hosting"
     },
     {
@@ -3493,24 +3493,8 @@
       "storage_gb": 450,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.bluehost.com/vps-hosting"
-    },
-    {
-      "provider": "HostGator",
-      "provider_slug": "hostgator",
-      "plan": "Snappy 1000 - NVMe 2",
-      "plan_id": "hostgator-snappy-1000---nvme-2",
-      "price_usd_month": 3.82,
-      "term_months": 24,
-      "renewal_usd_month": 4.95,
-      "vcpu": 1,
-      "ram_gb": 2,
-      "storage_gb": 50,
-      "storage_type": "nvme",
-      "bandwidth_tb": null,
-      "checked_at": "2026-11-20T05:04:46.077Z",
-      "source_url": "https://www.hostgator.com/vps-hosting"
     },
     {
       "provider": "HostGator",
@@ -3525,7 +3509,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-20T05:04:46.077Z",
+      "checked_at": "2026-11-22T14:45:47.672Z",
       "source_url": "https://www.hostgator.com/vps-hosting"
     },
     {
@@ -3541,7 +3525,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-20T05:04:46.077Z",
+      "checked_at": "2026-11-22T14:45:47.672Z",
       "source_url": "https://www.hostgator.com/vps-hosting"
     },
     {
@@ -3557,7 +3541,7 @@
       "storage_gb": 450,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-20T05:04:46.077Z",
+      "checked_at": "2026-11-22T14:45:47.672Z",
       "source_url": "https://www.hostgator.com/vps-hosting"
     },
     {
@@ -3573,7 +3557,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3589,7 +3573,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3605,7 +3589,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3621,7 +3605,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3637,7 +3621,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3653,7 +3637,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3669,7 +3653,7 @@
       "storage_gb": 720,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3685,7 +3669,7 @@
       "storage_gb": 480,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3701,7 +3685,7 @@
       "storage_gb": 960,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fasthosts.co.uk/virtual-private-servers"
     },
     {
@@ -3717,7 +3701,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3733,7 +3717,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3749,7 +3733,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3765,7 +3749,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3781,7 +3765,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3797,7 +3781,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3813,7 +3797,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3829,7 +3813,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.rosehosting.com/linux-vps-hosting/"
     },
     {
@@ -3845,7 +3829,7 @@
       "storage_gb": 30,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3861,7 +3845,7 @@
       "storage_gb": 55,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3877,7 +3861,7 @@
       "storage_gb": 85,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3893,7 +3877,7 @@
       "storage_gb": 165,
       "storage_type": "nvme",
       "bandwidth_tb": 6,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3909,7 +3893,7 @@
       "storage_gb": 325,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3925,7 +3909,7 @@
       "storage_gb": 650,
       "storage_type": "nvme",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3941,7 +3925,7 @@
       "storage_gb": 1300,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hawkhost.com/vps-hosting/"
     },
     {
@@ -3957,7 +3941,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -3973,7 +3957,7 @@
       "storage_gb": 30,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -3989,7 +3973,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4005,7 +3989,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4021,7 +4005,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4037,7 +4021,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4053,7 +4037,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4069,7 +4053,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 30,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4085,7 +4069,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 50,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4101,7 +4085,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4117,7 +4101,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4133,7 +4117,7 @@
       "storage_gb": 800,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4149,7 +4133,7 @@
       "storage_gb": 1200,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4165,7 +4149,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4181,7 +4165,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4197,7 +4181,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 30,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4213,7 +4197,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 50,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4229,7 +4213,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4245,7 +4229,7 @@
       "storage_gb": 800,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4261,7 +4245,7 @@
       "storage_gb": 1200,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4277,7 +4261,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4293,7 +4277,7 @@
       "storage_gb": 600,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4309,7 +4293,7 @@
       "storage_gb": 1200,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4325,7 +4309,7 @@
       "storage_gb": 2400,
       "storage_type": "nvme",
       "bandwidth_tb": 30,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4341,7 +4325,7 @@
       "storage_gb": 3600,
       "storage_type": "nvme",
       "bandwidth_tb": 100,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.vpsbg.eu/pricing?category=cloudVps"
     },
     {
@@ -4357,7 +4341,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.scalahosting.com/cloud-vps-hosting.html"
     },
     {
@@ -4373,7 +4357,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.scalahosting.com/cloud-vps-hosting.html"
     },
     {
@@ -4389,7 +4373,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.scalahosting.com/cloud-vps-hosting.html"
     },
     {
@@ -4405,7 +4389,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.scalahosting.com/cloud-vps-hosting.html"
     },
     {
@@ -4421,7 +4405,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4429,7 +4413,7 @@
       "provider_slug": "fastcomet",
       "plan": "Cloud 3",
       "plan_id": "fastcomet-cloud-3",
-      "price_usd_month": 69.27,
+      "price_usd_month": 49.99,
       "term_months": null,
       "renewal_usd_month": 98.95,
       "vcpu": 4,
@@ -4437,7 +4421,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4445,7 +4429,7 @@
       "provider_slug": "fastcomet",
       "plan": "Cloud 4",
       "plan_id": "fastcomet-cloud-4",
-      "price_usd_month": 107.77,
+      "price_usd_month": 79.99,
       "term_months": null,
       "renewal_usd_month": 153.95,
       "vcpu": 6,
@@ -4453,7 +4437,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4469,7 +4453,7 @@
       "storage_gb": 640,
       "storage_type": "nvme",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4485,7 +4469,7 @@
       "storage_gb": 1280,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4501,7 +4485,7 @@
       "storage_gb": 1920,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4517,7 +4501,7 @@
       "storage_gb": 2560,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.fastcomet.com/vps-pricing"
     },
     {
@@ -4533,7 +4517,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 0.25,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.accuwebhosting.com/vps-hosting/linux"
     },
     {
@@ -4543,13 +4527,13 @@
       "plan_id": "accuwebhosting-peak",
       "price_usd_month": 6.88,
       "term_months": 24,
-      "renewal_usd_month": 19.79,
+      "renewal_usd_month": 19.8,
       "vcpu": 2,
       "ram_gb": 8,
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 0.45,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.accuwebhosting.com/vps-hosting/linux"
     },
     {
@@ -4557,15 +4541,15 @@
       "provider_slug": "accuwebhosting",
       "plan": "VPS Power",
       "plan_id": "accuwebhosting-power",
-      "price_usd_month": 9.85,
+      "price_usd_month": 9.86,
       "term_months": 24,
-      "renewal_usd_month": 39.59,
+      "renewal_usd_month": 39.61,
       "vcpu": 3,
       "ram_gb": 16,
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 0.65,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.accuwebhosting.com/vps-hosting/linux"
     },
     {
@@ -4573,15 +4557,15 @@
       "provider_slug": "accuwebhosting",
       "plan": "VPS Supreme",
       "plan_id": "accuwebhosting-supreme",
-      "price_usd_month": 19.75,
+      "price_usd_month": 19.76,
       "term_months": 24,
-      "renewal_usd_month": 79.18,
+      "renewal_usd_month": 79.23,
       "vcpu": 4,
       "ram_gb": 32,
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.accuwebhosting.com/vps-hosting/linux"
     },
     {
@@ -4597,7 +4581,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://eu.siteground.com/cloud-hosting.htm"
     },
     {
@@ -4613,7 +4597,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.stablehost.com/vps-hosting.php"
     },
     {
@@ -4629,7 +4613,7 @@
       "storage_gb": 60,
       "storage_type": "ssd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.stablehost.com/vps-hosting.php"
     },
     {
@@ -4645,7 +4629,7 @@
       "storage_gb": 100,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.stablehost.com/vps-hosting.php"
     },
     {
@@ -4661,7 +4645,7 @@
       "storage_gb": 200,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.stablehost.com/vps-hosting.php"
     },
     {
@@ -4677,7 +4661,7 @@
       "storage_gb": 300,
       "storage_type": "ssd",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.604Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.stablehost.com/vps-hosting.php"
     },
     {
@@ -4693,7 +4677,7 @@
       "storage_gb": 20,
       "storage_type": "ssd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4709,7 +4693,7 @@
       "storage_gb": 40,
       "storage_type": "ssd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4725,7 +4709,7 @@
       "storage_gb": 80,
       "storage_type": "ssd",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4741,7 +4725,7 @@
       "storage_gb": 256,
       "storage_type": "hdd",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4757,7 +4741,7 @@
       "storage_gb": 512,
       "storage_type": "hdd",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4773,7 +4757,7 @@
       "storage_gb": 1024,
       "storage_type": "hdd",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostens.com/vps-hosting/"
     },
     {
@@ -4789,7 +4773,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4805,7 +4789,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4821,7 +4805,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4837,7 +4821,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4853,7 +4837,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4869,7 +4853,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.hostpapa.com/web-hosting-plan/unmanaged-vps-hosting/"
     },
     {
@@ -4885,7 +4869,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.greengeeks.com/vps-hosting"
     },
     {
@@ -4901,7 +4885,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.greengeeks.com/vps-hosting"
     },
     {
@@ -4917,7 +4901,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.greengeeks.com/vps-hosting"
     },
     {
@@ -4933,7 +4917,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://www.greengeeks.com/vps-hosting"
     },
     {
@@ -4949,7 +4933,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://supporthost.com/unmanaged-vps-cloud/"
     },
     {
@@ -4965,7 +4949,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://supporthost.com/unmanaged-vps-cloud/"
     },
     {
@@ -4981,7 +4965,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://supporthost.com/unmanaged-vps-cloud/"
     },
     {
@@ -4997,7 +4981,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://supporthost.com/unmanaged-vps-cloud/"
     },
     {
@@ -5013,7 +4997,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5029,7 +5013,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5045,7 +5029,7 @@
       "storage_gb": 30,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5061,7 +5045,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5077,7 +5061,7 @@
       "storage_gb": 35,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5093,7 +5077,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5109,7 +5093,7 @@
       "storage_gb": 70,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5125,7 +5109,7 @@
       "storage_gb": 60,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5141,7 +5125,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5157,7 +5141,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5173,7 +5157,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5189,7 +5173,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5205,7 +5189,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5221,7 +5205,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5237,7 +5221,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5253,7 +5237,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5269,7 +5253,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5285,7 +5269,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5301,7 +5285,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5317,7 +5301,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5333,7 +5317,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5349,7 +5333,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5365,7 +5349,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5381,7 +5365,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5397,7 +5381,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5413,7 +5397,7 @@
       "storage_gb": 320,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5429,7 +5413,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5445,7 +5429,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5461,7 +5445,7 @@
       "storage_gb": 50,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5477,7 +5461,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5493,7 +5477,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5509,7 +5493,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5525,7 +5509,7 @@
       "storage_gb": 120,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5541,7 +5525,7 @@
       "storage_gb": 180,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5557,7 +5541,7 @@
       "storage_gb": 240,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5573,7 +5557,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5589,7 +5573,7 @@
       "storage_gb": 360,
       "storage_type": "nvme",
       "bandwidth_tb": null,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://rafftechnologies.com/pricing"
     },
     {
@@ -5605,7 +5589,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5621,7 +5605,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5637,7 +5621,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": 40,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5653,7 +5637,7 @@
       "storage_gb": 350,
       "storage_type": "nvme",
       "bandwidth_tb": 60,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5669,7 +5653,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 80,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5685,7 +5669,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 120,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5701,7 +5685,7 @@
       "storage_gb": 800,
       "storage_type": "nvme",
       "bandwidth_tb": 160,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5717,7 +5701,7 @@
       "storage_gb": 1000,
       "storage_type": "nvme",
       "bandwidth_tb": 200,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5733,7 +5717,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 3,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5749,7 +5733,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 5,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5765,7 +5749,7 @@
       "storage_gb": 100,
       "storage_type": "nvme",
       "bandwidth_tb": 10,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5781,7 +5765,7 @@
       "storage_gb": 200,
       "storage_type": "nvme",
       "bandwidth_tb": 20,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5797,7 +5781,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": 40,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5813,7 +5797,7 @@
       "storage_gb": 350,
       "storage_type": "nvme",
       "bandwidth_tb": 60,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5829,7 +5813,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 80,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5845,7 +5829,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 120,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5861,7 +5845,7 @@
       "storage_gb": 800,
       "storage_type": "nvme",
       "bandwidth_tb": 160,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5877,7 +5861,7 @@
       "storage_gb": 1000,
       "storage_type": "nvme",
       "bandwidth_tb": 200,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5893,7 +5877,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5909,7 +5893,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5925,7 +5909,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5941,7 +5925,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5957,7 +5941,7 @@
       "storage_gb": 250,
       "storage_type": "nvme",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5973,7 +5957,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": 24,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -5989,7 +5973,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 32,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6005,7 +5989,7 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 48,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6021,7 +6005,7 @@
       "storage_gb": 25,
       "storage_type": "nvme",
       "bandwidth_tb": 1,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6037,7 +6021,7 @@
       "storage_gb": 40,
       "storage_type": "nvme",
       "bandwidth_tb": 2,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6053,7 +6037,7 @@
       "storage_gb": 80,
       "storage_type": "nvme",
       "bandwidth_tb": 4,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6069,7 +6053,7 @@
       "storage_gb": 160,
       "storage_type": "nvme",
       "bandwidth_tb": 8,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6085,7 +6069,7 @@
       "storage_gb": 250,
       "storage_type": "nvme",
       "bandwidth_tb": 16,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6101,7 +6085,7 @@
       "storage_gb": 300,
       "storage_type": "nvme",
       "bandwidth_tb": 24,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6117,7 +6101,7 @@
       "storage_gb": 400,
       "storage_type": "nvme",
       "bandwidth_tb": 32,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
     },
     {
@@ -6133,8 +6117,2376 @@
       "storage_gb": 500,
       "storage_type": "nvme",
       "bandwidth_tb": 48,
-      "checked_at": "2026-11-22T03:06:17.605Z",
+      "checked_at": "2026-11-23T05:03:58.439Z",
       "source_url": "https://cubepath.com/pricing"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-1",
+      "plan_id": "ovhcloud-vps-1",
+      "price_usd_month": 4.14,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-2",
+      "plan_id": "ovhcloud-vps-2",
+      "price_usd_month": 7.84,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 75,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-3",
+      "plan_id": "ovhcloud-vps-3",
+      "price_usd_month": 11.3,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 12,
+      "storage_gb": 100,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-4",
+      "plan_id": "ovhcloud-vps-4",
+      "price_usd_month": 21.7,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-1 (US)",
+      "plan_id": "ovhcloud-vps-1-us",
+      "price_usd_month": 4.54,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-2 (US)",
+      "plan_id": "ovhcloud-vps-2-us",
+      "price_usd_month": 8.5,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 75,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-3 (US)",
+      "plan_id": "ovhcloud-vps-3-us",
+      "price_usd_month": 12.32,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 12,
+      "storage_gb": 100,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "OVHcloud",
+      "provider_slug": "ovhcloud",
+      "plan": "VPS-4 (US)",
+      "plan_id": "ovhcloud-vps-4-us",
+      "price_usd_month": 23.37,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.439Z",
+      "source_url": "https://www.ovhcloud.com/en-ie/vps/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X2C-4G",
+      "plan_id": "scaleway-basic3-x2c-4g",
+      "price_usd_month": 38.6,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X2C-8G",
+      "plan_id": "scaleway-basic3-x2c-8g",
+      "price_usd_month": 58.42,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X4C-8G",
+      "plan_id": "scaleway-basic3-x4c-8g",
+      "price_usd_month": 74.11,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X4C-16G",
+      "plan_id": "scaleway-basic3-x4c-16g",
+      "price_usd_month": 113.66,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X6C-12G",
+      "plan_id": "scaleway-basic3-x6c-12g",
+      "price_usd_month": 123.15,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 12,
+      "storage_gb": 120,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X6C-24G",
+      "plan_id": "scaleway-basic3-x6c-24g",
+      "price_usd_month": 147.03,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X8C-16G",
+      "plan_id": "scaleway-basic3-x8c-16g",
+      "price_usd_month": 160.66,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X8C-32G",
+      "plan_id": "scaleway-basic3-x8c-32g",
+      "price_usd_month": 211.7,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X12C-24G",
+      "plan_id": "scaleway-basic3-x12c-24g",
+      "price_usd_month": 238.91,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X12C-48G",
+      "plan_id": "scaleway-basic3-x12c-48g",
+      "price_usd_month": 270.1,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 48,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X16C-32G",
+      "plan_id": "scaleway-basic3-x16c-32g",
+      "price_usd_month": 305.68,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized BASIC3-X16C-64G",
+      "plan_id": "scaleway-basic3-x16c-64g",
+      "price_usd_month": 399.35,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-2C-8G",
+      "plan_id": "scaleway-pop2-2c-8g",
+      "price_usd_month": 69.75,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-4C-16G",
+      "plan_id": "scaleway-pop2-4c-16g",
+      "price_usd_month": 136.32,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-6C-24G",
+      "plan_id": "scaleway-pop2-6c-24g",
+      "price_usd_month": 198.76,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-8C-32G",
+      "plan_id": "scaleway-pop2-8c-32g",
+      "price_usd_month": 253.91,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-12C-48G",
+      "plan_id": "scaleway-pop2-12c-48g",
+      "price_usd_month": 368.97,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 48,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-16C-64G",
+      "plan_id": "scaleway-pop2-16c-64g",
+      "price_usd_month": 491.96,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-24C-96G",
+      "plan_id": "scaleway-pop2-24c-96g",
+      "price_usd_month": 726.03,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 24,
+      "ram_gb": 96,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-32C-128G",
+      "plan_id": "scaleway-pop2-32c-128g",
+      "price_usd_month": 960.11,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 32,
+      "ram_gb": 128,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-48C-192G",
+      "plan_id": "scaleway-pop2-48c-192g",
+      "price_usd_month": 1428.26,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 48,
+      "ram_gb": 192,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Production-Optimized POP2-64C-256G",
+      "plan_id": "scaleway-pop2-64c-256g",
+      "price_usd_month": 1888.48,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 64,
+      "ram_gb": 256,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A2C-4G",
+      "plan_id": "scaleway-basic2-a2c-4g",
+      "price_usd_month": 25.55,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A2C-8G",
+      "plan_id": "scaleway-basic2-a2c-8g",
+      "price_usd_month": 38.8,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A4C-8G",
+      "plan_id": "scaleway-basic2-a4c-8g",
+      "price_usd_month": 52.45,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A4C-16G",
+      "plan_id": "scaleway-basic2-a4c-16g",
+      "price_usd_month": 74.35,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A6C-12G",
+      "plan_id": "scaleway-basic2-a6c-12g",
+      "price_usd_month": 78.15,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 12,
+      "storage_gb": 120,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A6C-24G",
+      "plan_id": "scaleway-basic2-a6c-24g",
+      "price_usd_month": 95.46,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A8C-16G",
+      "plan_id": "scaleway-basic2-a8c-16g",
+      "price_usd_month": 101.73,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A8C-32G",
+      "plan_id": "scaleway-basic2-a8c-32g",
+      "price_usd_month": 133.14,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A12C-24G",
+      "plan_id": "scaleway-basic2-a12c-24g",
+      "price_usd_month": 149.01,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 24,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A12C-48G",
+      "plan_id": "scaleway-basic2-a12c-48g",
+      "price_usd_month": 167.18,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 48,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A16C-32G",
+      "plan_id": "scaleway-basic2-a16c-32g",
+      "price_usd_month": 187.82,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Cost-Optimized (Arm) BASIC2-A16C-64G",
+      "plan_id": "scaleway-basic2-a16c-64g",
+      "price_usd_month": 242.49,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 200,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development PLAY2-PICO",
+      "plan_id": "scaleway-play2-pico",
+      "price_usd_month": 16.57,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 2,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development PLAY2-NANO",
+      "plan_id": "scaleway-play2-nano",
+      "price_usd_month": 29.15,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development PLAY2-MICRO",
+      "plan_id": "scaleway-play2-micro",
+      "price_usd_month": 55.13,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Learning STARDUST1-S",
+      "plan_id": "scaleway-stardust1-s",
+      "price_usd_month": 5.72,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 1,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development DEV1-S",
+      "plan_id": "scaleway-dev1-s",
+      "price_usd_month": 12.36,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 2,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development DEV1-M",
+      "plan_id": "scaleway-dev1-m",
+      "price_usd_month": 23.33,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 3,
+      "ram_gb": 4,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development DEV1-L",
+      "plan_id": "scaleway-dev1-l",
+      "price_usd_month": 45.42,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "Scaleway",
+      "provider_slug": "scaleway",
+      "plan": "Development DEV1-XL",
+      "plan_id": "scaleway-dev1-xl",
+      "price_usd_month": 67.18,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 12,
+      "storage_gb": 120,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.scaleway.com/en/pricing/virtual-instances/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 1 CPU / 1 GB",
+      "plan_id": "upcloud-starter-1cpu-1gb",
+      "price_usd_month": 3.26,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 1,
+      "storage_gb": 10,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 1 CPU / 2 GB",
+      "plan_id": "upcloud-starter-1cpu-2gb",
+      "price_usd_month": 6.52,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 2,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 2 CPU / 2 GB",
+      "plan_id": "upcloud-starter-2cpu-2gb",
+      "price_usd_month": 8.7,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 2,
+      "storage_gb": 30,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 1 CPU / 4 GB",
+      "plan_id": "upcloud-starter-1cpu-4gb",
+      "price_usd_month": 10.87,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 4,
+      "storage_gb": 30,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 2 CPU / 4 GB",
+      "plan_id": "upcloud-starter-2cpu-4gb",
+      "price_usd_month": 13.04,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 30,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 2 CPU / 8 GB",
+      "plan_id": "upcloud-starter-2cpu-8gb",
+      "price_usd_month": 19.57,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 4 CPU / 8 GB",
+      "plan_id": "upcloud-starter-4cpu-8gb",
+      "price_usd_month": 21.74,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 2 CPU / 16 GB",
+      "plan_id": "upcloud-starter-2cpu-16gb",
+      "price_usd_month": 26.09,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 16,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Starter 4 CPU / 16 GB",
+      "plan_id": "upcloud-starter-4cpu-16gb",
+      "price_usd_month": 30.43,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 1 CPU / 1 GB",
+      "plan_id": "upcloud-premium-1cpu-1gb",
+      "price_usd_month": 5.43,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 1,
+      "storage_gb": 25,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 1 CPU / 2 GB",
+      "plan_id": "upcloud-premium-1cpu-2gb",
+      "price_usd_month": 13.04,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 2,
+      "storage_gb": 25,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 2 CPU / 2 GB",
+      "plan_id": "upcloud-premium-2cpu-2gb",
+      "price_usd_month": 17.39,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 2,
+      "storage_gb": 50,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 2 CPU / 4 GB",
+      "plan_id": "upcloud-premium-2cpu-4gb",
+      "price_usd_month": 28.26,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 50,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 2 CPU / 8 GB",
+      "plan_id": "upcloud-premium-2cpu-8gb",
+      "price_usd_month": 41.3,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 100,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 4 CPU / 8 GB",
+      "plan_id": "upcloud-premium-4cpu-8gb",
+      "price_usd_month": 56.52,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 100,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 2 CPU / 16 GB",
+      "plan_id": "upcloud-premium-2cpu-16gb",
+      "price_usd_month": 78.26,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 16,
+      "storage_gb": 150,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 4 CPU / 16 GB",
+      "plan_id": "upcloud-premium-4cpu-16gb",
+      "price_usd_month": 100,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 150,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 8 CPU / 16 GB",
+      "plan_id": "upcloud-premium-8cpu-16gb",
+      "price_usd_month": 160.87,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 200,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 4 CPU / 32 GB",
+      "plan_id": "upcloud-premium-4cpu-32gb",
+      "price_usd_month": 154.35,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 32,
+      "storage_gb": 200,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 8 CPU / 32 GB",
+      "plan_id": "upcloud-premium-8cpu-32gb",
+      "price_usd_month": 208.7,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 32,
+      "storage_gb": 300,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 16 CPU / 32 GB",
+      "plan_id": "upcloud-premium-16cpu-32gb",
+      "price_usd_month": 336.96,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 32,
+      "storage_gb": 300,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 8 CPU / 64 GB",
+      "plan_id": "upcloud-premium-8cpu-64gb",
+      "price_usd_month": 291.3,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 64,
+      "storage_gb": 300,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 16 CPU / 64 GB",
+      "plan_id": "upcloud-premium-16cpu-64gb",
+      "price_usd_month": 417.39,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 300,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 32 CPU / 64 GB",
+      "plan_id": "upcloud-premium-32cpu-64gb",
+      "price_usd_month": 673.91,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 32,
+      "ram_gb": 64,
+      "storage_gb": 400,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 24 CPU / 96 GB",
+      "plan_id": "upcloud-premium-24cpu-96gb",
+      "price_usd_month": 626.09,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 24,
+      "ram_gb": 96,
+      "storage_gb": 400,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 48 CPU / 96 GB",
+      "plan_id": "upcloud-premium-48cpu-96gb",
+      "price_usd_month": 1147.83,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 48,
+      "ram_gb": 96,
+      "storage_gb": 400,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 8 CPU / 128 GB",
+      "plan_id": "upcloud-premium-8cpu-128gb",
+      "price_usd_month": 521.74,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 128,
+      "storage_gb": 400,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 32 CPU / 128 GB",
+      "plan_id": "upcloud-premium-32cpu-128gb",
+      "price_usd_month": 834.78,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 32,
+      "ram_gb": 128,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 64 CPU / 128 GB",
+      "plan_id": "upcloud-premium-64cpu-128gb",
+      "price_usd_month": 1356.52,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 64,
+      "ram_gb": 128,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 38 CPU / 192 GB",
+      "plan_id": "upcloud-premium-38cpu-192gb",
+      "price_usd_month": 1113.04,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 38,
+      "ram_gb": 192,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 48 CPU / 256 GB",
+      "plan_id": "upcloud-premium-48cpu-256gb",
+      "price_usd_month": 1482.61,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 48,
+      "ram_gb": 256,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 64 CPU / 384 GB",
+      "plan_id": "upcloud-premium-64cpu-384gb",
+      "price_usd_month": 2165.22,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 64,
+      "ram_gb": 384,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "UpCloud",
+      "provider_slug": "upcloud",
+      "plan": "Premium 80 CPU / 512 GB",
+      "plan_id": "upcloud-premium-80cpu-512gb",
+      "price_usd_month": 2773.91,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 80,
+      "ram_gb": 512,
+      "storage_gb": 500,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://upcloud.com/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "Ampere A1 Flex (Arm) 1 OCPU / 6 GB",
+      "plan_id": "oracle-a1-1ocpu-6gb",
+      "price_usd_month": 16.26,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 6,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "Ampere A1 Flex (Arm) 2 OCPU / 12 GB",
+      "plan_id": "oracle-a1-2ocpu-12gb",
+      "price_usd_month": 30.4,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 12,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "Ampere A1 Flex (Arm) 4 OCPU / 24 GB",
+      "plan_id": "oracle-a1-4ocpu-24gb",
+      "price_usd_month": 58.67,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 24,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "Ampere A1 Flex (Arm) 8 OCPU / 48 GB",
+      "plan_id": "oracle-a1-8ocpu-48gb",
+      "price_usd_month": 115.21,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 48,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 1 OCPU / 8 GB",
+      "plan_id": "oracle-e5-1ocpu-8gb",
+      "price_usd_month": 36.35,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 1 OCPU / 16 GB",
+      "plan_id": "oracle-e5-1ocpu-16gb",
+      "price_usd_month": 48.25,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 16,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 2 OCPU / 16 GB",
+      "plan_id": "oracle-e5-2ocpu-16gb",
+      "price_usd_month": 70.57,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 2 OCPU / 32 GB",
+      "plan_id": "oracle-e5-2ocpu-32gb",
+      "price_usd_month": 94.38,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 32,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 4 OCPU / 32 GB",
+      "plan_id": "oracle-e5-4ocpu-32gb",
+      "price_usd_month": 139.02,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 32,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "Oracle Cloud",
+      "provider_slug": "oracle-cloud",
+      "plan": "AMD E5 Flex 4 OCPU / 64 GB",
+      "plan_id": "oracle-e5-4ocpu-64gb",
+      "price_usd_month": 186.64,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 64,
+      "storage_gb": 50,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.oracle.com/cloud/compute/pricing/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 512",
+      "plan_id": "buyvm-slice-512",
+      "price_usd_month": 2,
+      "term_months": 12,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 0.5,
+      "storage_gb": 10,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 1024",
+      "plan_id": "buyvm-slice-1024",
+      "price_usd_month": 3.5,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 1,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 2048",
+      "plan_id": "buyvm-slice-2048",
+      "price_usd_month": 7,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 2,
+      "storage_gb": 40,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 4096 (dedicated core)",
+      "plan_id": "buyvm-slice-4096",
+      "price_usd_month": 15,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 4,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 8192 (dedicated cores)",
+      "plan_id": "buyvm-8gb",
+      "price_usd_month": 30,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 8,
+      "storage_gb": 160,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 12288 (dedicated cores)",
+      "plan_id": "buyvm-12gb",
+      "price_usd_month": 45,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 3,
+      "ram_gb": 12,
+      "storage_gb": 240,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 16384 (dedicated cores)",
+      "plan_id": "buyvm-16gb",
+      "price_usd_month": 60,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 16,
+      "storage_gb": 320,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 20480 (dedicated cores)",
+      "plan_id": "buyvm-20gb",
+      "price_usd_month": 75,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 5,
+      "ram_gb": 20,
+      "storage_gb": 400,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 24576 (dedicated cores)",
+      "plan_id": "buyvm-24gb",
+      "price_usd_month": 90,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 6,
+      "ram_gb": 24,
+      "storage_gb": 480,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "BuyVM",
+      "provider_slug": "buyvm",
+      "plan": "Slice 28672 (dedicated cores)",
+      "plan_id": "buyvm-28gb",
+      "price_usd_month": 105,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 7,
+      "ram_gb": 28,
+      "storage_gb": 560,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://buyvm.net/kvm-dedicated-server-slices/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-0.5",
+      "plan_id": "evoxt-vm-0-5",
+      "price_usd_month": 2.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 0.5,
+      "storage_gb": 5,
+      "storage_type": "ssd",
+      "bandwidth_tb": 0.5,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-0.75",
+      "plan_id": "evoxt-vm-0-75",
+      "price_usd_month": 4.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 1,
+      "storage_gb": 10,
+      "storage_type": "ssd",
+      "bandwidth_tb": 0.75,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-1",
+      "plan_id": "evoxt-vm-1",
+      "price_usd_month": 5.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 1,
+      "ram_gb": 2,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": 1,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-1.5",
+      "plan_id": "evoxt-vm-1-5",
+      "price_usd_month": 6.95,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 2,
+      "storage_gb": 20,
+      "storage_type": "ssd",
+      "bandwidth_tb": 1.5,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-2",
+      "plan_id": "evoxt-vm-2",
+      "price_usd_month": 11.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 30,
+      "storage_type": "ssd",
+      "bandwidth_tb": 2,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-3",
+      "plan_id": "evoxt-vm-3",
+      "price_usd_month": 14.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 4,
+      "storage_gb": 30,
+      "storage_type": "ssd",
+      "bandwidth_tb": 3,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-4",
+      "plan_id": "evoxt-vm-4",
+      "price_usd_month": 23.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "storage_type": "ssd",
+      "bandwidth_tb": 4,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-6",
+      "plan_id": "evoxt-vm-6",
+      "price_usd_month": 29.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "storage_type": "ssd",
+      "bandwidth_tb": 5,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-8",
+      "plan_id": "evoxt-vm-8",
+      "price_usd_month": 47.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": 6,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-12",
+      "plan_id": "evoxt-vm-12",
+      "price_usd_month": 60.95,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 16,
+      "storage_gb": 80,
+      "storage_type": "ssd",
+      "bandwidth_tb": 8,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "Evoxt",
+      "provider_slug": "evoxt",
+      "plan": "VM-16",
+      "plan_id": "evoxt-vm-16",
+      "price_usd_month": 95.99,
+      "term_months": 1,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 32,
+      "storage_gb": 100,
+      "storage_type": "ssd",
+      "bandwidth_tb": 10,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://evoxt.com/pricing/"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 500 G12.5",
+      "plan_id": "netcup-vps-500",
+      "price_usd_month": 6.41,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 500 G12.5 (US)",
+      "plan_id": "netcup-vps-500-us",
+      "price_usd_month": 7.37,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 500 G12.5 (Singapore)",
+      "plan_id": "netcup-vps-500-sg",
+      "price_usd_month": 13.41,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 1000 G12.5",
+      "plan_id": "netcup-vps-1000",
+      "price_usd_month": 11.25,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 1000 G12.5 (US)",
+      "plan_id": "netcup-vps-1000-us",
+      "price_usd_month": 12.95,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 1000 G12.5 (Singapore)",
+      "plan_id": "netcup-vps-1000-sg",
+      "price_usd_month": 28.51,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 2000 G12.5",
+      "plan_id": "netcup-vps-2000",
+      "price_usd_month": 20.9,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 2000 G12.5 (US)",
+      "plan_id": "netcup-vps-2000-us",
+      "price_usd_month": 24.03,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 2000 G12.5 (Singapore)",
+      "plan_id": "netcup-vps-2000-sg",
+      "price_usd_month": 48.77,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 4000 G12.5",
+      "plan_id": "netcup-vps-4000",
+      "price_usd_month": 35.22,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 4000 G12.5 (US)",
+      "plan_id": "netcup-vps-4000-us",
+      "price_usd_month": 40.5,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 4000 G12.5 (Singapore)",
+      "plan_id": "netcup-vps-4000-sg",
+      "price_usd_month": 80.07,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 8000 G12.5",
+      "plan_id": "netcup-vps-8000",
+      "price_usd_month": 52.1,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 8000 G12.5 (US)",
+      "plan_id": "netcup-vps-8000-us",
+      "price_usd_month": 59.91,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "VPS 8000 G12.5 (Singapore)",
+      "plan_id": "netcup-vps-8000-sg",
+      "price_usd_month": 113.1,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "ssd",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 500 G12.5",
+      "plan_id": "netcup-rs-500",
+      "price_usd_month": 10.03,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 500 G12.5 (US)",
+      "plan_id": "netcup-rs-500-us",
+      "price_usd_month": 11.53,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 500 G12.5 (Singapore)",
+      "plan_id": "netcup-rs-500-sg",
+      "price_usd_month": 15.12,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 2,
+      "ram_gb": 4,
+      "storage_gb": 64,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 1000 G12.5",
+      "plan_id": "netcup-rs-1000",
+      "price_usd_month": 16.87,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 1000 G12.5 (US)",
+      "plan_id": "netcup-rs-1000-us",
+      "price_usd_month": 19.4,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 1000 G12.5 (Singapore)",
+      "plan_id": "netcup-rs-1000-sg",
+      "price_usd_month": 31.09,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 4,
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 2000 G12.5",
+      "plan_id": "netcup-rs-2000",
+      "price_usd_month": 31.6,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 2000 G12.5 (US)",
+      "plan_id": "netcup-rs-2000-us",
+      "price_usd_month": 36.34,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 2000 G12.5 (Singapore)",
+      "plan_id": "netcup-rs-2000-sg",
+      "price_usd_month": 46.85,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 8,
+      "ram_gb": 16,
+      "storage_gb": 256,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 4000 G12.5",
+      "plan_id": "netcup-rs-4000",
+      "price_usd_month": 60.42,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 4000 G12.5 (US)",
+      "plan_id": "netcup-rs-4000-us",
+      "price_usd_month": 69.49,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 4000 G12.5 (Singapore)",
+      "plan_id": "netcup-rs-4000-sg",
+      "price_usd_month": 80.75,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 12,
+      "ram_gb": 32,
+      "storage_gb": 512,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 8000 G12.5",
+      "plan_id": "netcup-rs-8000",
+      "price_usd_month": 115.23,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 8000 G12.5 (US)",
+      "plan_id": "netcup-rs-8000-us",
+      "price_usd_month": 132.51,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 8000 G12.5 (Singapore)",
+      "plan_id": "netcup-rs-8000-sg",
+      "price_usd_month": 140.63,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 16,
+      "ram_gb": 64,
+      "storage_gb": 1024,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 12000 G12.5",
+      "plan_id": "netcup-rs-12000",
+      "price_usd_month": 168.38,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 20,
+      "ram_gb": 96,
+      "storage_gb": 1536,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 12000 G12.5 (US)",
+      "plan_id": "netcup-rs-12000-us",
+      "price_usd_month": 193.65,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 20,
+      "ram_gb": 96,
+      "storage_gb": 1536,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 16000 G12.5",
+      "plan_id": "netcup-rs-16000",
+      "price_usd_month": 224.73,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 24,
+      "ram_gb": 128,
+      "storage_gb": 2048,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
+    },
+    {
+      "provider": "netcup",
+      "provider_slug": "netcup",
+      "plan": "RS 16000 G12.5 (US)",
+      "plan_id": "netcup-rs-16000-us",
+      "price_usd_month": 258.45,
+      "term_months": 24,
+      "renewal_usd_month": null,
+      "vcpu": 24,
+      "ram_gb": 128,
+      "storage_gb": 2048,
+      "storage_type": "nvme",
+      "bandwidth_tb": null,
+      "checked_at": "2026-11-23T05:03:58.440Z",
+      "source_url": "https://www.netcup.com/en/server/vps"
     }
   ]
 }
